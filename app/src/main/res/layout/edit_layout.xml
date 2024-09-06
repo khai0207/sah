@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    style="@style/w_wrap_h_wrap">
+    <EditText
+        android:textSize="@dimen/dialog_text_size"
+        android:typeface="normal"
+        android:textColorHint="#9e9e9e"
+        android:id="@+id/dropview_edit"
+        android:background="@null"
+        android:layout_width="290dp"
+        android:layout_height="48dp"
+        android:singleLine="true"
+        android:maxLength="21"
+        android:inputType="textFilter"/>
+    <ImageView
+        android:layout_gravity="center"
+        android:id="@+id/dropview_image"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:src="@drawable/sdk_unfold_btn"
+        android:scaleType="centerInside"/>
+</LinearLayout>

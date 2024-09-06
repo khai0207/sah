@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="horizontal"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content">
+    <RelativeLayout
+        android:background="@null"
+        android:layout_width="310dp"
+        android:layout_height="61.5dp">
+        <ImageView
+            android:background="@drawable/sdk_tishi01_bg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"/>
+        <TextView
+            android:textSize="@dimen/dialog_text_size"
+            android:typeface="normal"
+            android:textColor="#000000"
+            android:gravity="center_vertical"
+            android:id="@+id/dropview_edit"
+            android:background="@null"
+            android:layout_width="155dp"
+            android:layout_height="61.5dp"
+            android:layout_marginLeft="15dp"
+            android:text="1111111111111"
+            android:singleLine="true"
+            android:maxLength="21"/>
+        <ImageView
+            android:id="@+id/dropview_image"
+            android:background="@drawable/sdk_delete_btn"
+            android:layout_width="21dp"
+            android:layout_height="21dp"
+            android:layout_marginLeft="280dp"
+            android:layout_centerVertical="true"/>
+    </RelativeLayout>
+</LinearLayout>

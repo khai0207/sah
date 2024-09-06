@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" width="32" height="32" tilewidth="80" tileheight="40">
+ <tileset firstgid="1" name="surface" tilewidth="80" tileheight="40" spacing="2" margin="2">
+  <image source="surface.png" trans="ff00ff" width="494" height="674"/>
+ </tileset>
+ <tileset firstgid="97" name="road" tilewidth="80" tileheight="40" spacing="2" margin="2">
+  <image source="road.png" trans="ff00ff" width="494" height="1010"/>
+ </tileset>
+ <tileset firstgid="241" name="wall" tilewidth="80" tileheight="40">
+  <image source="wall.png" trans="ff00ff" width="480" height="280"/>
+ </tileset>
+ <layer name="earth" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztlEsOgCAMBbtF3BK4EHD/GymJJqSiFvl0YReTGEOYvmejBwAvCAUC8VzscAcVk1E7SwuR6G/N/3a+1t+b5HVoDipfnQH5bXanu3mX0+LH+2SQz8K1k57+p+8/qn81wH/2wJnfMfnzXaH2DwPyU/vn9uud9ZhDoedZ+TGa2T8zP/f/R/z/9qc9X6D//lP9Jfcy0S8Is9gAzITSPA==
+  </data>
+ </layer>
+ <layer name="road" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztlEsKgDAMRHNn/95Or6AHMi66kZA4kAjBDDwotPBoh5TofSZmBs57p/zl/7t/ZFZHUP/ALI6gfu39o/uJ8CNd9aT3b+1LSH1I65uO9P6f+wdzKuej+29+r2T0bwZoUP9ugCTj+1t+6T/2mv/mR+ZfA53/+v/LX/5v/ZHJcP/yY7kAIcyNvQ==
+  </data>
+ </layer>
+ <layer name="above" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo4B4wAfEglAsMsBuER7h9gsMsP2kgoEOr1H7CQMmKM0JxOw0dAs++zlHuP0sA2w/AwMiDFjRML3sHwjgOsD2MwwC+2kJhkL5N9LtZ2bAzPPUyv+k1D+0AEPBfkYGSPmPCwtQgIWo55VRMEwAAHyDA2Y=
+  </data>
+ </layer>
+ <layer name="roadup" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo4B4UDHQDhgFcFA10A5AA8VAXIpHvpJeDhkFWAGh9FLJgIgjZDa5gBpmjAIEKCdDz5VhZP9wB1UM1C3TqW0epWC0LBjagJz8PwqoB0Dhj6/9TUieHmCg7R8FpAEAG+0NaA==
+  </data>
+ </layer>
+ <layer name="wall" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo4A24NOo/SPa/lEwCkbB8AIsjKiYA41Pb8A4AHaOFPuFgGYLDqD/RqL9zIwIDLMfWewzA37MzYgfUxMIETCPi8ZhN2o/bc0fBcMfAADglA0M
+  </data>
+ </layer>
+</map>

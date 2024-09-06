@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" width="80" height="80" tilewidth="80" tileheight="40">
+ <tileset firstgid="1" name="earth_resouce" tilewidth="80" tileheight="40" spacing="2" margin="2">
+  <tileoffset x="2" y="2"/>
+  <image source="earth_resouce.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="73" name="road" tilewidth="80" tileheight="40" spacing="2" margin="2">
+  <tileoffset x="2" y="2"/>
+  <image source="road.png" width="256" height="512"/>
+ </tileset>
+ <layer name="earth" width="80" height="80">
+  <data encoding="base64" compression="zlib">
+   eJzt1rEKgCAUQFF1cfT//7YGh3xUpEsFZzgI8obHxcGcUsq71k/WxH71Azv9SQsN9ZtrF+/0m+93bBb7nc0wql0JnUrop+F9w9jvqvPbu35RTeM71PA5f8B1VT/9AAAAAAAAAAAAAAAAAAAAAAAAAAAAoNsAJOsaIw==
+  </data>
+ </layer>
+ <layer name="jianbian" width="80" height="80">
+  <data encoding="base64" compression="zlib">
+   eJztwSEBAAAAAiD9f9oPZqABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXgPIAAAC
+  </data>
+ </layer>
+ <layer name="road" width="80" height="80">
+  <data encoding="base64" compression="zlib">
+   eJztwSEBAAAAAiD9f9oPZqABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAXgPIAAAC
+  </data>
+ </layer>
+</map>

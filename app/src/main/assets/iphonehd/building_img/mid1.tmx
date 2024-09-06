@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" width="60" height="60" tilewidth="80" tileheight="40">
+ <tileset firstgid="1" name="surface" tilewidth="80" tileheight="40" spacing="2" margin="2">
+  <image source="surface.png" width="494" height="674"/>
+ </tileset>
+ <tileset firstgid="97" name="2" tilewidth="80" tileheight="40">
+  <image source="2.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="113" name="3" tilewidth="80" tileheight="40">
+  <image source="3.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="129" name="1" tilewidth="80" tileheight="40">
+  <image source="1.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="145" name="4" tilewidth="80" tileheight="40">
+  <image source="4.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="161" name="5" tilewidth="80" tileheight="40">
+  <image source="5.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="177" name="6" tilewidth="80" tileheight="40">
+  <image source="6.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="193" name="7" tilewidth="80" tileheight="40">
+  <image source="7.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="209" name="8" tilewidth="80" tileheight="40">
+  <image source="8.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="225" name="9" tilewidth="80" tileheight="40">
+  <image source="9.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="241" name="10" tilewidth="80" tileheight="40">
+  <image source="10.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="257" name="11" tilewidth="80" tileheight="40">
+  <image source="11.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="273" name="12" tilewidth="80" tileheight="40">
+  <image source="12.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="289" name="13" tilewidth="80" tileheight="40">
+  <image source="13.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="305" name="14" tilewidth="80" tileheight="40">
+  <image source="14.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="321" name="15" tilewidth="80" tileheight="40">
+  <image source="15.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="337" name="16" tilewidth="80" tileheight="40">
+  <image source="16.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="353" name="17" tilewidth="80" tileheight="40">
+  <image source="17.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="369" name="18" tilewidth="80" tileheight="40">
+  <image source="18.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="385" name="19" tilewidth="80" tileheight="40">
+  <image source="19.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="401" name="20" tilewidth="80" tileheight="40">
+  <image source="20.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="417" name="21" tilewidth="80" tileheight="40">
+  <image source="21.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="433" name="22" tilewidth="80" tileheight="40">
+  <image source="22.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="449" name="23" tilewidth="80" tileheight="40">
+  <image source="23.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="465" name="24" tilewidth="80" tileheight="40">
+  <image source="24.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="481" name="25" tilewidth="80" tileheight="40">
+  <image source="25.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="497" name="26" tilewidth="80" tileheight="40">
+  <image source="26.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="513" name="27" tilewidth="80" tileheight="40">
+  <image source="27.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="529" name="28" tilewidth="80" tileheight="40">
+  <image source="28.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="545" name="29" tilewidth="80" tileheight="40">
+  <image source="29.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="561" name="30" tilewidth="80" tileheight="40">
+  <image source="30.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="577" name="1_1" tilewidth="80" tileheight="40">
+  <image source="1_1.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="593" name="1_2" tilewidth="80" tileheight="40">
+  <image source="1_2.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="609" name="1_3" tilewidth="80" tileheight="40">
+  <image source="1_3.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="625" name="1_4" tilewidth="80" tileheight="40">
+  <image source="1_4.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="641" name="1_5" tilewidth="80" tileheight="40">
+  <image source="1_5.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="657" name="1_6" tilewidth="80" tileheight="40">
+  <image source="1_6.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="673" name="1_7" tilewidth="80" tileheight="40">
+  <image source="1_7.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="689" name="1_8" tilewidth="80" tileheight="40">
+  <image source="1_8.png" width="320" height="160"/>
+ </tileset>
+ <tileset firstgid="705" name="1_9" tilewidth="80" tileheight="40">
+  <image source="1_9.png" width="320" height="160"/>
+ </tileset>
+ <layer name="earth" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztz0kKw0AQQ1FfIARCcv+rxoYIvDCmhxqkSn/QXm/bVtY9972zTwR1WD+/VTefrdXNV9aq5jtrNXOLtYq5x6puHrGqmmesamYLq4rZ0spu9rCymj2tbOYIK4s50pptzrBmmTOt0WYGa5SZyeptZrR6mZmt1mYFq5VZyTprVrSOmpWtveYK1h7zg+DnMi/zMi/zMi/zv5hfDd4q5lZrBXOvVdk8alU0z1qVzFZWBbO1ldnsZUVMZm8rYjBHWVGmOdqKMsxZVhRpzraiCDOLFXma2azIw8xqRZZmdiuyMKtY0YxZzYpGzKpW1GNWt6IWcxUrujNXs6Irc1UrOpurW9FhjrR+Ae5uj4k=
+  </data>
+ </layer>
+ <layer name="1" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztzjEOABAABEF/V5CQ+LLGG1zITLPtlgIAAAAAAAAA8J562qMXd7XTGb24a6QHAlZ6AAAAAAD4xgaIcQM5
+  </data>
+ </layer>
+ <layer name="2" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztzjEOABAABEF/VZCQ+H+n8QYnMdNsu6UAAAAAAAAA/KOe9ujFXe10Ri/uGumBgJUeAAAAAAAAnrMBUAgCeQ==
+  </data>
+ </layer>
+ <layer name="3" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztzjEOABAABEF/VpCQ+LpGr+KamWbbLQUAAAAAAICbetqjF3+10xm9+GukBwJWegAAAAAAAAB4ZgPndALZ
+  </data>
+ </layer>
+ <layer name="4" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztzrkNgAAQBDH6D0H8CFol2RrukLCTSWcYAAAAAAAAAP5rSrfWixpjuqZX10ihJT1bL2rM6ZE+XSOF9vRuvQAAAAAAgO96AfbhByc=
+  </data>
+ </layer>
+ <layer name="5" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztzqkRgAAQBEHyDwOKn4IUMZsAgjvTbcbOMAAAAAAAAPDVlG6tFzXGdE2vrpFCS3q2XtSY0yN9ukYK7endegEAAAAAAAD/ewH0oAfn
+  </data>
+ </layer>
+ <layer name="6" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztzrkRgDAQBEHlnw8gnkKp4VwAWLdOtzPujAEAAAAAQLeZHmh0VJ/oRY+9ekcvemzVq7pSI43O6hu9AAAAAAAAAID/PvIlB0I=
+  </data>
+ </layer>
+ <layer name="7" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztzrENgDAUQ8HsP1ZQQFAwUyiyQcR3cydZbl9rAAAAAAAA7DrSAYX6+itaUetMBxQa659oRa3725uOAAAAAAAAgB9Mh84GOQ==
+  </data>
+ </layer>
+ <layer name="8" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztzqkRgFAQBcGff3hQ3BSkgnkWu2u6zdgZAwAAAACALnO6t17UmNItvbtGCq3p1XpRY0nP9O0aKXSkT+sFAAAAAAAAAPz7ADc4Cic=
+  </data>
+ </layer>
+ <layer name="9" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztz9sJgEAMRcHtv0zFx7qwNehHwA4SwRkI5/emNQAAAAAAvmKNnqUrcizR47lROSTRHv3Dv1v0Kl2Rq0dn6QoAAAAAAAAAeN1fSgn3
+  </data>
+ </layer>
+ <layer name="10" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztzrsNgDAQBUH33y9fIyB5NdxJ1kyy6Y4BAAAAwCrO7oFCR/q0XtTY09l6UWNL7/TrGil0pW/rBQAAAAAAAAAAK/oBLb8Jwg==
+  </data>
+ </layer>
+ <layer name="11" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztz7sNgDAQREEbxM9G0H+3BFwLgMTNJJvuKwUAAACAvxnrvWv99scbhmhcYvcEzXM09gStUzS22DNB8xaNR4JWAAAAAAAAAACedQFPqABz
+  </data>
+ </layer>
+ <layer name="12" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztz8ENgCAQRFFoAYOYaP91cnBLIJi4713mOr8UAAAAAP7uqO9e9dsfO7RoHLFPguYzGu8ErT1BIwAAAAAAAAAArDIBtpUAvw==
+  </data>
+ </layer>
+ <layer name="13" width="60" height="60" opacity="0.9">
+  <data encoding="base64" compression="zlib">
+   eJztz7kRgDAUQ0FTDJhrTP/dkShkCCH4u4lSvdYAAADg3Tr9/eA7Pa1ngeYljUeB1jmNe/Yq0LylcRRoBQAAAAAAAAAA4NkNsQgBrA==
+  </data>
+ </layer>
+ <layer name="14" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztz7kRgDAQBEEpJVR8goL8s8LQBYAFxnU76+6UAgAAAO+0Onar//74whSNa+yZoHmJxiNB6xyNPfZO0LxH45WgFQAAAAAAAAAAgOEBL2wCsw==
+  </data>
+ </layer>
+ <layer name="15" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztz7EVgCAAQ0FYTR4K+y9kISxgoUXumrT5pQAAAMA7rT476r8/vnCsxiugdTuDWntQ6zYDmwEAAAAAAAAAANLcaQsB8A==
+  </data>
+ </layer>
+ <layer name="16" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztz7kRgDAUQ0FTJJhrTP9dkKgGPMzfTZTqtQYAAHPsy+wH3+lpvQs0b2m8CrSuaTyzT4HmI42jQCsAAAAAAAAAAADA372IgAOM
+  </data>
+ </layer>
+ <layer name="17" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztz7sNgDAQREG7VRA/G0H/GQFXAxa6mWTTfaUAAMBYc313r2N/fGGKxi32TNC8RmNP0LpEY4u9EzQf0XglaAUAAAAAAAAAAAD4mweoIATz
+  </data>
+ </layer>
+ <layer name="18" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztzzsOwCAMREF85aD8bk+R+AqA5Jlm232tAQDAXnp8+8TaHzMcf+NdoDVdhVrPQq3pLdgMAAAAAAAAAAAAsKsBeyoDQA==
+  </data>
+ </layer>
+ <layer name="19" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztz7kNgDAUREFTPJhLpmWSrcFI/Jlk032tAcC/7MvXD+bpab0LNG9pvAq0rmk8s0+B5iONo0ArAAAAAAAAAAAAAMAsLzTKBWw=
+  </data>
+ </layer>
+ <layer name="20" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztz7sNgDAQREG7/wzEz0bQKgHXAiBxM8mm+0oBgH8a671r/fbHG4ZoXGL3BM1zNPYErVM0ttgzQfMWjUeCVgAAAAAAAAAAAACAp1y50wcz
+  </data>
+ </layer>
+ <layer name="21" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztz7ENgDAUQ8Fk/y1AQARIrEiBF6CB4t81bv1aA4Aa5v7s6P/++MKUxi17Fmhe03gUaF3SuGevAs0AAAAAAAAAAAAAALx3A3b7Bpo=
+  </data>
+ </layer>
+ <layer name="22" width="60" height="60" opacity="0.9">
+  <data encoding="base64" compression="zlib">
+   eJztzysWgDAUQ8Gy//VA+Z2yNUwUCgXizZjY3NaAN9bp7wff6Wk9CzQvaTwKtM5p3LNXgeYtjaNAKwAAAAAAAAAAAAAAwNMNtdcHTA==
+  </data>
+ </layer>
+ <layer name="23" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztz6sRgFAUQ0Fe/13B8GegJQRpAAPi7prYnK4D3hjas0v798cX+jTO2aNA85TGvUDrmMYtexVoXtN4FmgFAAAAAAAAAAAAAAC4AWSFCXM=
+  </data>
+ </layer>
+ <layer name="24" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztz6sRgFAUQ0Fe/93B8GegFQSpAAHi7prYnK4DgJqG9uzS/v3xhT6Nc/Yo0DylcS/QOqZxy14Fmtc0ngVaAQAAAAAAAAAAAADeugHj1goz
+  </data>
+ </layer>
+ <layer name="25" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztz7kNgEAUQ8Hd/rsEcQiQaIEAtwAI/ZnEqV9rAADwb2O/d+3f/njDkMYlexRontO4F2id0rhlzwLNAAAAAAAAAAAAADznAq8HCRo=
+  </data>
+ </layer>
+ <layer name="26" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztz7ENgDAQBMH//st1YCQs2YGhBEDoZ5JLbyMAAOBfWu498tsfb+pX6yjUfBZqvc2CzQAAAAAAAAAAAAA8ZwF7agXf
+  </data>
+ </layer>
+ <layer name="27" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztz8EJACAMALFS0If7D+zHEYoiTSa4iwAAAH6V+brgvtnoeZzX1egZAAAAAAAAAAAAgDobbnMAIA==
+  </data>
+ </layer>
+ <layer name="28" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztzzEOABAQAEHxBAkJhf8/U3O9juJmXrBbCgCQTau/C94biZ57vK5EzzNed6JnAAAAAAAAAAAAAICbAyEcAJs=
+  </data>
+ </layer>
+ <layer name="29" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztz8ENABAQAEFRioSEh/7L87kCvHjcTAW7pQDcafV3wXsj0XOP15XoecbrTvQMAAAAAAAAAAAAAADkcQBMtwD7
+  </data>
+ </layer>
+ <layer name="30" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztz8ENABAQAEHREwkP/ZflcyUIkZupYLcUTuv1dcE9LV5noucRryvRMwAAAAAAAAAAAAAAAPCfDfpNASc=
+  </data>
+ </layer>
+ <layer name="road1" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztz8ENABAQAEFRHEGi/3J8rgAvHjdTwW4pAAAAAPd6/V3wTovXleh5Jnod8boTPQMAAAAAAAAAALkcIKwBxg==
+  </data>
+ </layer>
+ <layer name="road2" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztzyESgDAUQ8HOvyKCDoje/xaIthYJIrsmNq81AAAAAMhz1Nxe//740hnUut1BzddqHUHNAAAAAAAAAAC8ewBZgAIj
+  </data>
+ </layer>
+ <layer name="road3" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztz6EOABAARVHzrwQ2/x8FkiCycU559d0QAAAAAADeluPYGu/+OCHNxvJB66p92AwAAAAAAAAAsNMBWuICGQ==
+  </data>
+ </layer>
+ <layer name="road4" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztz7ENgDAQBEHrWyYAgWRad2DcwiPrZ5JLb1sDAAAAAIC9HTH3in9/ZDoLtS5Poeb7a30LNfdCrQAAAAAAAABZBuOYA2M=
+  </data>
+ </layer>
+ <layer name="road5" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztz0EOgCAQBEHC10nEoNEvc3D9gsRs1WWu06UAAAAAAADAWq0+u9e1P77Uo/VM0LxF45Gg9TWi9U7UfCVqBQAAAAAA+IsJzYYE6Q==
+  </data>
+ </layer>
+ <layer name="road6" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztz8EJgDAQAMHD/l8JKCSQWvM5KxAUvJkKdiMAAAAAAAAA4Jl+fF3wnpavV6HnM19noedR6PW2Cj4DAAAAAPzdBvdeBDQ=
+  </data>
+ </layer>
+ <layer name="road7" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztz8EJgDAQAMHD/qtQiGAeadEIlxbi42Yq2I0AAAAAAAAAAICI6/i7YJ8zX+9Czy1fe6HnzzN/R7FnAAAAAFhekEwEpQ==
+  </data>
+ </layer>
+ <layer name="road8" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztz8ENABAQAMGL/qvxkPBQm48KPEjcTAW7EQAAAAAAAAAAAP+q5XXBfS3h80j03PfrTPQMAAAAnFlvHwOk
+  </data>
+ </layer>
+ <layer name="road9" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztz7ENgDAQBEHr+++KAMsgaMkBX4Mt9DPJpbetAQAAAAAAAAAAAH9xxLc99v5Y6czWu1DzVah1ZOtbqPkp1AoAAOw1AUgjBmE=
+  </data>
+ </layer>
+</map>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" width="28" height="32" tilewidth="80" tileheight="40">
+ <tileset firstgid="1" name="surface" tilewidth="80" tileheight="40" spacing="2" margin="2">
+  <image source="surface.png" width="494" height="674"/>
+ </tileset>
+ <tileset firstgid="97" name="road" tilewidth="80" tileheight="40" spacing="2" margin="2">
+  <image source="road.png" width="494" height="1010"/>
+ </tileset>
+ <tileset firstgid="241" name="wall" tilewidth="80" tileheight="40">
+  <image source="wall.png" width="480" height="280"/>
+ </tileset>
+ <layer name="earth" width="28" height="32">
+  <data encoding="base64" compression="zlib">
+   eJyzZGBgsBzFo3gUj+JRTHOsSCEetW/UvlH7SLdPlEhMrXxOb/uItZOa9hFj51C2b7jH30Ckl1E8uDAAyNGxYQ==
+  </data>
+ </layer>
+ <layer name="above" width="28" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztzbEJAAAIBLHfQdx/VVcQtMzB1ekkvbxyb2vxeDwej8fj8Xg8Hu/XGwcRH0E=
+  </data>
+ </layer>
+ <layer name="wall" width="28" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztkc0KgCAQBu0YFVT0/g/Zn5EQbbCHRaI9SFvRNzAHXWFQnQMAfIUu0+dSYEtNb16yZzRiv1X+R5sf5MoZ9NB7slfRmYK16F2xKuuYPi33i14QbtE63NDTWMiR9QY9icX9rHsTObBzYg+8jx17RSKk
+  </data>
+ </layer>
+ <layer name="wallup" width="28" height="32">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFIwkIMhKvVogEtaP20c8+ETyYFvYRC0btGwXDDbAwomJ0gC8voufHUTAKRsEoGAWjYLAAAPLfAng=
+  </data>
+ </layer>
+ <layer name="roaddown" width="28" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztzbENACAMA8HsDAS2C6PFJQ0dIIo/yYWrNwMAnBbaXH7R2sNe1wY9ep/2quYXewCAvQRQOxNl
+  </data>
+ </layer>
+ <layer name="road" width="28" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztk0kKADAIA/1z976+/kAPoURIYG7iHELMcFnOBv6r6LtAujODmwOkOSO4QYaxP/lq+7S/fBj7k6+2T/vLh7E/+Wr7tL98GPv77XshXoBp
+  </data>
+ </layer>
+</map>

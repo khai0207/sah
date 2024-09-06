@@ -1,0 +1,1809 @@
+{
+    "status": 0,
+    "msg": "",
+    "data": {
+        "building": "100001",
+        "city": "100",
+        "extra_rewards": {
+            "reward_crystal": 0,
+            "reward_character": [],
+            "reward_item": [],
+            "reward_equip": [],
+            "reward_energy": 0,
+            "reward_building": 0,
+            "reward_metal": 0,
+            "reward_food": 0
+        },
+        "land": [
+            [
+                [
+                    0,
+                    "-100002",
+                    "parking.png",
+                    0
+                ],
+                [
+                    0,
+                    "-100002",
+                    "parking.png",
+                    1
+                ],
+                [
+                    0,
+                    "-100003",
+                    "mudi.png",
+                    0
+                ],
+                [
+                    0,
+                    "-100003",
+                    "mudi.png",
+                    1
+                ],
+                [
+                    0,
+                    "-100004",
+                    "tv.png",
+                    0
+                ],
+                [
+                    0,
+                    "-100005",
+                    "matou.png",
+                    0
+                ],
+                [
+                    0,
+                    "-1008",
+                    "touming.png",
+                    0
+                ]
+            ],
+            [
+                [
+                    0,
+                    "-100007",
+                    "prision.png",
+                    0
+                ],
+                [
+                    0,
+                    "-100007",
+                    "prision.png",
+                    1
+                ],
+                [
+                    0,
+                    "-100008",
+                    "jiaotang.png",
+                    0
+                ],
+                [
+                    0,
+                    "-100008",
+                    "jiaotang.png",
+                    1
+                ],
+                [
+                    0,
+                    "-100009",
+                    "elec.png",
+                    0
+                ],
+                [
+                    0,
+                    "-100005",
+                    "matou.png",
+                    1
+                ],
+                [
+                    0,
+                    "-1008",
+                    "touming.png",
+                    0
+                ]
+            ],
+            [
+                [
+                    0,
+                    "-100007",
+                    "prision.png",
+                    1
+                ],
+                [
+                    0,
+                    "-100007",
+                    "prision.png",
+                    1
+                ],
+                [
+                    0,
+                    "-100010",
+                    "xuexiao.png",
+                    0
+                ],
+                [
+                    2,
+                    "100001",
+                    "keng.png",
+                    0
+                ],
+                [
+                    0,
+                    "-100011",
+                    "box.png",
+                    0
+                ],
+                [
+                    0,
+                    "-100011",
+                    "box.png",
+                    1
+                ],
+                [
+                    0,
+                    "-100012",
+                    "ship.png",
+                    0
+                ]
+            ],
+            [
+                [
+                    0,
+                    "-100013",
+                    "bieshu5.png",
+                    0
+                ],
+                [
+                    0,
+                    "-100014",
+                    "castle.png",
+                    0
+                ],
+                [
+                    2,
+                    "-100015",
+                    "kongdi7.png",
+                    0
+                ],
+                [
+                    1,
+                    "99999",
+                    "",
+                    0
+                ],
+                [
+                    2,
+                    "-100016",
+                    "box1.png",
+                    0
+                ],
+                [
+                    0,
+                    "-100017",
+                    "matou1.png",
+                    0
+                ],
+                [
+                    0,
+                    "-100012",
+                    "ship.png",
+                    1
+                ]
+            ],
+            [
+                [
+                    0,
+                    "-100018",
+                    "lanqiuchang.png",
+                    0
+                ],
+                [
+                    0,
+                    "-100014",
+                    "castle.png",
+                    1
+                ],
+                [
+                    0,
+                    "-100019",
+                    "guangchang6.png",
+                    0
+                ],
+                [
+                    2,
+                    "-100020",
+                    "camp.png",
+                    0
+                ],
+                [
+                    0,
+                    "-100021",
+                    "factory.png",
+                    0
+                ],
+                [
+                    0,
+                    "-100021",
+                    "factory.png",
+                    1
+                ],
+                [
+                    0,
+                    "-1008",
+                    "touming.png",
+                    0
+                ]
+            ],
+            [
+                [
+                    0,
+                    "-100022",
+                    "bieshu3.png",
+                    0
+                ],
+                [
+                    0,
+                    "-100022",
+                    "bieshu3.png",
+                    1
+                ],
+                [
+                    0,
+                    "-100023",
+                    "xiaolou1.png",
+                    0
+                ],
+                [
+                    0,
+                    "-100024",
+                    "xiaolou1.png",
+                    0
+                ],
+                [
+                    0,
+                    "-100025",
+                    "rubbishcars.png",
+                    0
+                ],
+                [
+                    0,
+                    "-100025",
+                    "rubbishcars.png",
+                    1
+                ],
+                [
+                    0,
+                    "-100026",
+                    "kongdi6.png",
+                    0
+                ]
+            ],
+            [
+                [
+                    0,
+                    "-100027",
+                    "fruit1.png",
+                    0
+                ],
+                [
+                    0,
+                    "-100027",
+                    "fruit1.png",
+                    1
+                ],
+                [
+                    0,
+                    "-100028",
+                    "bieshu1.png",
+                    0
+                ],
+                [
+                    0,
+                    "-100029",
+                    "bieshu2.png",
+                    0
+                ],
+                [
+                    0,
+                    "-100030",
+                    "pinminqu.png",
+                    0
+                ],
+                [
+                    0,
+                    "-100030",
+                    "pinminqu.png",
+                    1
+                ],
+                [
+                    0,
+                    "-1008",
+                    "touming.png",
+                    0
+                ]
+            ]
+        ],
+        "next_step": -1,
+        "curt_gift": [],
+        "is_recaptured": false,
+        "_client_cache_update": {
+            "cards": {
+                "cards": {
+                    "update": {
+                        "3800-1389026414-UgD6JM": {
+                            "base_hp": 0,
+                            "pos": 2,
+                            "crit": 10,
+                            "matk_history": 0,
+                            "speed": 105,
+                            "id": "3800-1389026414-UgD6JM",
+                            "def_crystal": 0,
+                            "is_evolution": 0,
+                            "level_max": 20,
+                            "quality": 3,
+                            "lv": 2,
+                            "is_boss": 0,
+                            "speed_history": 0,
+                            "def_history": 0,
+                            "matk": 143,
+                            "c_id": 3800,
+                            "star": 0,
+                            "hr": 95,
+                            "hp": 1000000,
+                            "base_patk": 0,
+                            "exp_max": 46,
+                            "evolution_flag": 2,
+                            "patk_history": 0,
+                            "patk": 159,
+                            "remove_avail": [],
+                            "matk_crystal": 0,
+                            "patk_crystal": 0,
+                            "s_1": {
+                                "lv": 1,
+                                "avail": 2,
+                                "s": 3810,
+                                "exp": 0
+                            },
+                            "s_3": {
+                                "lv": 1,
+                                "avail": 0,
+                                "s": 3830,
+                                "exp": 0
+                            },
+                            "s_2": {
+                                "lv": 1,
+                                "avail": 0,
+                                "s": 3820,
+                                "exp": 0
+                            },
+                            "base_matk": 0,
+                            "career": 3,
+                            "hp_crystal": 0,
+                            "hp_history": 0,
+                            "dr": 0,
+                            "base_speed": 0,
+                            "race": 4,
+                            "exp": 30,
+                            "base_def": 0,
+                            "def": 131,
+                            "speed_crystal": 0
+                        }
+                    },
+                    "remove": []
+                }
+            }
+        },
+        "curt_regain": 100,
+        "has_battled": 1,
+        "rewards": {
+            "reward_energy": 5,
+            "reward_metal": 5,
+            "reward_food": 10
+        },
+        "battle_rewards": {
+            "reward_exp_character": {
+                "3800-1389026414-UgD6JM": [
+                    52,
+                    0,
+                    [
+                        [
+                            1,
+                            22
+                        ],
+                        [
+                            2,
+                            46
+                        ]
+                    ]
+                ]
+            },
+            "reward_character": {},
+            "reward_exp_player": [
+                18,
+                0,
+                [
+                    [
+                        1,
+                        10
+                    ],
+                    [
+                        2,
+                        20
+                    ]
+                ]
+            ],
+            "reward_item": {}
+        },
+        "new_gift": true,
+        "battle": {
+            "battle": {
+                "1": {
+                    "flag": "drama",
+                    "param": 1000
+                },
+                "2": {
+                    "flag": "drama",
+                    "param": 101
+                },
+                "3": {
+                    "flag": "skill",
+                    "param": {
+                        "src": 100,
+                        "desh": -1,
+                        "name": "monkey_s3",
+                        "skillid": 4132
+                    }
+                },
+                "4": {
+                    "flag": "add_buff",
+                    "param": {
+                        "msg": {},
+                        "src": 100,
+                        "name": "buff_allup"
+                    }
+                },
+                "5": {
+                    "flag": "add_buff",
+                    "param": {
+                        "msg": {},
+                        "src": 100,
+                        "name": "monkey_tempHp"
+                    }
+                },
+                "6": {
+                    "flag": "cur_data",
+                    "param": {
+                        "100": {
+                            "tempDfs": 65000,
+                            "tempSpeed": 104000,
+                            "tempHp": 1300000,
+                            "tempMgc": 129998.7,
+                            "maxHp": 1300000
+                        }
+                    }
+                },
+                "7": {
+                    "flag": "skill",
+                    "param": {
+                        "src": 104,
+                        "desh": -1,
+                        "name": "visker_sudujihuo",
+                        "skillid": 522
+                    }
+                },
+                "8": {
+                    "flag": "add_buff",
+                    "param": {
+                        "msg": {},
+                        "src": 100,
+                        "name": "buff_speed"
+                    }
+                },
+                "9": {
+                    "flag": "add_buff",
+                    "param": {
+                        "msg": {},
+                        "src": 101,
+                        "name": "buff_speed"
+                    }
+                },
+                "10": {
+                    "flag": "add_buff",
+                    "param": {
+                        "msg": {},
+                        "src": 102,
+                        "name": "buff_speed"
+                    }
+                },
+                "11": {
+                    "flag": "add_buff",
+                    "param": {
+                        "msg": {},
+                        "src": 104,
+                        "name": "buff_speed"
+                    }
+                },
+                "12": {
+                    "flag": "cur_data",
+                    "param": {
+                        "104": {
+                            "tempSpeed": 104000
+                        },
+                        "100": {
+                            "tempSpeed": 128000
+                        },
+                        "101": {
+                            "tempSpeed": 104000
+                        },
+                        "102": {
+                            "tempSpeed": 104000
+                        }
+                    }
+                },
+                "13": {
+                    "flag": "cur_data",
+                    "param": {
+                        "100": {
+                            "tempSpeed": 104000
+                        }
+                    }
+                },
+                "14": {
+                    "flag": "skill",
+                    "param": {
+                        "src": 2,
+                        "hurt": [
+                            199737,
+                            199737
+                        ],
+                        "des": [
+                            102,
+                            104
+                        ],
+                        "name": "madara_s1",
+                        "skillid": 1912
+                    }
+                },
+                "15": {
+                    "flag": "add_buff",
+                    "param": {
+                        "msg": {},
+                        "src": 0,
+                        "name": "buff_speed"
+                    }
+                },
+                "16": {
+                    "flag": "add_buff",
+                    "param": {
+                        "msg": {},
+                        "src": 1,
+                        "name": "buff_speed"
+                    }
+                },
+                "17": {
+                    "flag": "add_buff",
+                    "param": {
+                        "msg": {},
+                        "src": 2,
+                        "name": "buff_speed"
+                    }
+                },
+                "18": {
+                    "flag": "add_buff",
+                    "param": {
+                        "msg": {},
+                        "src": 3,
+                        "name": "buff_speed"
+                    }
+                },
+                "19": {
+                    "flag": "sort",
+                    "param": [
+                        4,
+                        103,
+                        100,
+                        101,
+                        1,
+                        104,
+                        0,
+                        102,
+                        3,
+                        2
+                    ]
+                },
+                "20": {
+                    "flag": "skill",
+                    "param": {
+                        "src": 2,
+                        "hurt": [
+                            300000,
+                            300000,
+                            300000,
+                            300000
+                        ],
+                        "des": [
+                            100,
+                            101,
+                            102,
+                            104
+                        ],
+                        "name": "madara_s2",
+                        "skillid": 1920
+                    }
+                },
+                "21": {
+                    "flag": "anger",
+                    "param": {
+                        "src": 0,
+                        "value": 30
+                    }
+                },
+                "22": {
+                    "flag": "attack_over",
+                    "param": {
+                        "src": 2
+                    }
+                },
+                "23": {
+                    "flag": "skill",
+                    "param": {
+                        "src": 0,
+                        "hurt": 249853,
+                        "des": 100,
+                        "name": "yusuke_s1",
+                        "skillid": 4412
+                    }
+                },
+                "24": {
+                    "flag": "anger",
+                    "param": {
+                        "src": 1,
+                        "value": 60
+                    }
+                },
+                "25": {
+                    "flag": "anger",
+                    "param": {
+                        "src": 0,
+                        "value": 60
+                    }
+                },
+                "26": {
+                    "flag": "attack_over",
+                    "param": {
+                        "src": 0
+                    }
+                },
+                "27": {
+                    "flag": "skill",
+                    "param": {
+                        "src": 104,
+                        "hurt": [
+                            97956,
+                            97956,
+                            97956,
+                            97956
+                        ],
+                        "des": [
+                            0,
+                            1,
+                            2,
+                            3
+                        ],
+                        "name": "visker_chaoyinsudaji",
+                        "skillid": 532
+                    }
+                },
+                "28": {
+                    "flag": "anger",
+                    "param": {
+                        "src": 1,
+                        "value": 80
+                    }
+                },
+                "29": {
+                    "flag": "anger",
+                    "param": {
+                        "src": 0,
+                        "value": 70
+                    }
+                },
+                "30": {
+                    "flag": "skill",
+                    "param": {
+                        "src": 0,
+                        "desh": -1,
+                        "name": "yusuke_s3",
+                        "skillid": 4432
+                    }
+                },
+                "31": {
+                    "flag": "add_buff",
+                    "param": {
+                        "msg": {},
+                        "src": 0,
+                        "name": "buff_allup"
+                    }
+                },
+                "32": {
+                    "flag": "add_buff",
+                    "param": {
+                        "msg": {},
+                        "src": 0,
+                        "name": "buff_yusuke"
+                    }
+                },
+                "33": {
+                    "flag": "add_buff",
+                    "param": {
+                        "msg": {},
+                        "src": 0,
+                        "name": "buff_yusuke2"
+                    }
+                },
+                "34": {
+                    "flag": "attack_over",
+                    "param": {
+                        "src": 104
+                    }
+                },
+                "35": {
+                    "flag": "skill",
+                    "param": {
+                        "src": 1,
+                        "hurt": 7425,
+                        "des": 101,
+                        "name": "luffy_s3",
+                        "skillid": 2332
+                    }
+                },
+                "36": {
+                    "flag": "anger",
+                    "param": {
+                        "src": 1,
+                        "value": 90
+                    }
+                },
+                "37": {
+                    "flag": "anger",
+                    "param": {
+                        "src": 0,
+                        "value": 90
+                    }
+                },
+                "38": {
+                    "flag": "attack_over",
+                    "param": {
+                        "src": 1
+                    }
+                },
+                "39": {
+                    "flag": "skill",
+                    "param": {
+                        "src": 101,
+                        "name": "twist_s3",
+                        "des": 1,
+                        "hurt": 200000,
+                        "card": 1,
+                        "skillid": 3930
+                    }
+                },
+                "40": {
+                    "flag": "anger",
+                    "param": {
+                        "src": 1,
+                        "value": 100
+                    }
+                },
+                "41": {
+                    "flag": "anger",
+                    "param": {
+                        "src": 0,
+                        "value": 100
+                    }
+                },
+                "42": {
+                    "flag": "attack_over",
+                    "param": {
+                        "src": 101
+                    }
+                },
+                "43": {
+                    "flag": "skill",
+                    "param": {
+                        "src": 3,
+                        "hurt": 60000,
+                        "des": 102,
+                        "name": "swordheart_s3",
+                        "skillid": 4630
+                    }
+                },
+                "44": {
+                    "flag": "attack_over",
+                    "param": {
+                        "src": 3
+                    }
+                },
+                "45": {
+                    "flag": "skill",
+                    "param": {
+                        "src": 102,
+                        "hurt": [
+                            30000,
+                            30000
+                        ],
+                        "des": [
+                            0,
+                            3
+                        ],
+                        "name": "vega_s2",
+                        "skillid": 4920
+                    }
+                },
+                "46": {
+                    "flag": "attack_over",
+                    "param": {
+                        "src": 102
+                    }
+                },
+                "47": {
+                    "flag": "drama",
+                    "param": 102
+                },
+                "48": {
+                    "flag": "skill",
+                    "param": {
+                        "src": 100,
+                        "hurt": [
+                            5000000,
+                            5000000,
+                            5000000,
+                            5000000
+                        ],
+                        "des": [
+                            0,
+                            1,
+                            2,
+                            3
+                        ],
+                        "name": "monkey_s2",
+                        "skillid": 4122
+                    }
+                },
+                "49": {
+                    "flag": "anger",
+                    "param": {
+                        "src": 1,
+                        "value": 10
+                    }
+                },
+                "50": {
+                    "flag": "anger",
+                    "param": {
+                        "src": 0,
+                        "value": 20
+                    }
+                },
+                "51": {
+                    "flag": "attack_over",
+                    "param": {
+                        "src": 100
+                    }
+                },
+                "52": {
+                    "flag": "drama",
+                    "param": 103
+                },
+                "53": {
+                    "flag": "cur_data",
+                    "param": {
+                        "100": {
+                            "tempHp": 1300000
+                        }
+                    }
+                },
+                "54": {
+                    "flag": "winer",
+                    "param": 0
+                }
+            },
+            "init": {
+                "dfd_name": "???",
+                "equip_att": {},
+                "equip_pos_att": {
+                    "0": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "1": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "2": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "3": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "4": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "5": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "6": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "7": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "8": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "9": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "atk_skill": [
+                    0,
+                    0,
+                    0
+                ],
+                "equip_def": {},
+                "atk_lv": 20,
+                "equip_pos_def": {
+                    "0": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "1": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "2": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "3": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "4": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "5": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "6": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "7": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "8": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ],
+                    "9": [
+                        0,
+                        0,
+                        0,
+                        0
+                    ]
+                },
+                "dform": 5,
+                "sort_array": [
+                    [
+                        4,
+                        103,
+                        3,
+                        101,
+                        1,
+                        104,
+                        0,
+                        102,
+                        2,
+                        100
+                    ],
+                    [
+                        4,
+                        103,
+                        3,
+                        1,
+                        101,
+                        102,
+                        2,
+                        104,
+                        0,
+                        100
+                    ]
+                ],
+                "atk": [
+                    {
+                        "mgc": 99999,
+                        "exp": 0,
+                        "hr": 95,
+                        "dr": 0,
+                        "hp": 1000000,
+                        "pos": 1,
+                        "dfs": 50000,
+                        "card_id": 6,
+                        "lv": 1,
+                        "career": 0,
+                        "race": 1,
+                        "phsc": 99999,
+                        "crit": 10,
+                        "boss": 0,
+                        "speed": 80000,
+                        "id": "h1nbyu9_6-1388991988-tOGrIM"
+                    },
+                    {
+                        "mgc": 99999,
+                        "exp": 0,
+                        "hr": 95,
+                        "dr": 0,
+                        "hp": 1000000,
+                        "pos": 2,
+                        "dfs": 50000,
+                        "card_id": 4,
+                        "lv": 1,
+                        "career": 0,
+                        "race": 2,
+                        "phsc": 99999,
+                        "crit": 10,
+                        "boss": 0,
+                        "speed": 80000,
+                        "id": "h1nbyu9_4-1388991988-JzZNdp"
+                    },
+                    {
+                        "mgc": 99999,
+                        "exp": 0,
+                        "hr": 95,
+                        "dr": 0,
+                        "hp": 1000000,
+                        "pos": 3,
+                        "dfs": 50000,
+                        "card_id": 8,
+                        "lv": 1,
+                        "career": 0,
+                        "race": 2,
+                        "phsc": 99999,
+                        "crit": 10,
+                        "boss": 0,
+                        "speed": 80000,
+                        "id": "h1nbyu9_8-1388991988-AqWvjd"
+                    },
+                    {
+                        "mgc": 144,
+                        "phsc": 260,
+                        "hr": 95,
+                        "speed": 216,
+                        "hp": 1000000,
+                        "pos": 4,
+                        "dfs": 72,
+                        "card_id": 4600,
+                        "lv": 1,
+                        "career": 1,
+                        "race": 0,
+                        "exp": 0,
+                        "crit": 10,
+                        "boss": 0,
+                        "dr": 0,
+                        "id": "h1nbyu9_4600-1396855772-iU56Xk"
+                    },
+                    0,
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "card_def": {
+                    "h122jiv_2-1388988191-GmuS3z": {
+                        "base_hp": 0,
+                        "exp_max": 22,
+                        "crit": 10,
+                        "matk_history": 0,
+                        "quality": 6,
+                        "id": "2-1388988191-GmuS3z",
+                        "def_crystal": 0,
+                        "is_evolution": 0,
+                        "level_max": 1,
+                        "speed": 80000,
+                        "lv": 1,
+                        "is_boss": 0,
+                        "speed_history": 0,
+                        "def_history": 0,
+                        "matk": 99999,
+                        "c_id": 2,
+                        "star": 6,
+                        "hr": 95,
+                        "hp": 500000,
+                        "base_patk": 0,
+                        "pos": 2,
+                        "evolution_flag": 0,
+                        "patk_history": 0,
+                        "patk": 99999,
+                        "remove_avail": [],
+                        "matk_crystal": 0,
+                        "patk_crystal": 0,
+                        "s_1": {
+                            "lv": 20,
+                            "avail": 2,
+                            "s": 3912,
+                            "exp": 0
+                        },
+                        "s_3": {
+                            "lv": 20,
+                            "avail": 2,
+                            "s": 3932,
+                            "exp": 0
+                        },
+                        "s_2": {
+                            "lv": 20,
+                            "avail": 2,
+                            "s": 3922,
+                            "exp": 0
+                        },
+                        "base_matk": 0,
+                        "career": 0,
+                        "hp_crystal": 0,
+                        "hp_history": 0,
+                        "dr": 0,
+                        "base_speed": 0,
+                        "race": 0,
+                        "exp": 0,
+                        "speed_crystal": 0,
+                        "def": 50000,
+                        "base_def": 0
+                    },
+                    "h122jiv_7-1388988191-aajP1F": {
+                        "base_hp": 0,
+                        "exp_max": 22,
+                        "crit": 10,
+                        "matk_history": 0,
+                        "quality": 6,
+                        "id": "7-1388988191-aajP1F",
+                        "def_crystal": 0,
+                        "is_evolution": 0,
+                        "level_max": 1,
+                        "speed": 80000,
+                        "lv": 1,
+                        "is_boss": 0,
+                        "speed_history": 0,
+                        "def_history": 0,
+                        "matk": 99999,
+                        "c_id": 7,
+                        "star": 6,
+                        "hr": 95,
+                        "hp": 1000000,
+                        "base_patk": 0,
+                        "pos": 5,
+                        "evolution_flag": 0,
+                        "patk_history": 0,
+                        "patk": 99999,
+                        "remove_avail": [],
+                        "matk_crystal": 0,
+                        "patk_crystal": 0,
+                        "s_1": {
+                            "lv": 20,
+                            "avail": 2,
+                            "s": 512,
+                            "exp": 0
+                        },
+                        "s_3": {
+                            "lv": 20,
+                            "avail": 2,
+                            "s": 532,
+                            "exp": 0
+                        },
+                        "s_2": {
+                            "lv": 20,
+                            "avail": 2,
+                            "s": 522,
+                            "exp": 0
+                        },
+                        "base_matk": 0,
+                        "career": 0,
+                        "hp_crystal": 0,
+                        "hp_history": 0,
+                        "dr": 0,
+                        "base_speed": 0,
+                        "race": 2,
+                        "exp": 0,
+                        "speed_crystal": 0,
+                        "def": 50000,
+                        "base_def": 0
+                    },
+                    "h122jiv_1-1388988191-V5zlq6": {
+                        "base_hp": 0,
+                        "exp_max": 22,
+                        "crit": 10,
+                        "matk_history": 0,
+                        "quality": 6,
+                        "id": "1-1388988191-V5zlq6",
+                        "def_crystal": 0,
+                        "is_evolution": 0,
+                        "level_max": 1,
+                        "speed": 80000,
+                        "lv": 1,
+                        "is_boss": 0,
+                        "speed_history": 0,
+                        "def_history": 0,
+                        "matk": 99999,
+                        "c_id": 1,
+                        "star": 6,
+                        "hr": 95,
+                        "hp": 1000000,
+                        "base_patk": 0,
+                        "pos": 1,
+                        "evolution_flag": 0,
+                        "patk_history": 0,
+                        "patk": 99999,
+                        "remove_avail": [],
+                        "matk_crystal": 0,
+                        "patk_crystal": 0,
+                        "s_1": {
+                            "lv": 20,
+                            "avail": 2,
+                            "s": 4112,
+                            "exp": 0
+                        },
+                        "s_3": {
+                            "lv": 20,
+                            "avail": 2,
+                            "s": 4132,
+                            "exp": 0
+                        },
+                        "s_2": {
+                            "lv": 20,
+                            "avail": 2,
+                            "s": 4122,
+                            "exp": 0
+                        },
+                        "base_matk": 0,
+                        "career": 0,
+                        "hp_crystal": 0,
+                        "hp_history": 0,
+                        "dr": 0,
+                        "base_speed": 0,
+                        "race": 1,
+                        "exp": 0,
+                        "speed_crystal": 0,
+                        "def": 50000,
+                        "base_def": 0
+                    },
+                    "h122jiv_4900-1396856254-u2wMQJ": {
+                        "base_hp": 1440,
+                        "pos": 5,
+                        "crit": 10,
+                        "matk_history": 0,
+                        "speed": 188,
+                        "id": "4900-1396856254-u2wMQJ",
+                        "def_crystal": 0,
+                        "level_max": 10,
+                        "quality": 4,
+                        "lv": 1,
+                        "is_boss": 0,
+                        "speed_history": 0,
+                        "def_history": 0,
+                        "matk": 159,
+                        "c_id": 4900,
+                        "star": 0,
+                        "hr": 95,
+                        "hp": 1000000,
+                        "base_patk": 220,
+                        "exp_max": 20,
+                        "pre_exp": 0,
+                        "step": 0,
+                        "patk_history": 0,
+                        "patk": 220,
+                        "remove_avail": [],
+                        "matk_crystal": 0,
+                        "patk_crystal": 0,
+                        "s_1": {
+                            "lv": 1,
+                            "avail": 2,
+                            "s": 4910,
+                            "exp": 0
+                        },
+                        "s_3": {
+                            "lv": 1,
+                            "avail": 0,
+                            "s": 4930,
+                            "exp": 0
+                        },
+                        "s_2": {
+                            "lv": 20,
+                            "avail": 2,
+                            "s": 4920,
+                            "exp": 0
+                        },
+                        "base_matk": 159,
+                        "evo": 0,
+                        "career": 4,
+                        "hp_crystal": 0,
+                        "hp_history": 0,
+                        "dr": 0,
+                        "base_speed": 188,
+                        "race": 4,
+                        "exp": 0,
+                        "base_def": 132,
+                        "def": 132,
+                        "speed_crystal": 0
+                    }
+                },
+                "dfd_lv": 20,
+                "atk_role": 3,
+                "dfd_role": 5,
+                "dfd": [
+                    {
+                        "mgc": 99999,
+                        "exp": 0,
+                        "hr": 95,
+                        "dr": 0,
+                        "hp": 1000000,
+                        "pos": 1,
+                        "dfs": 50000,
+                        "card_id": 1,
+                        "lv": 1,
+                        "career": 0,
+                        "race": 1,
+                        "phsc": 99999,
+                        "crit": 10,
+                        "boss": 0,
+                        "speed": 80000,
+                        "id": "h122jiv_1-1388988191-V5zlq6"
+                    },
+                    {
+                        "mgc": 99999,
+                        "exp": 0,
+                        "hr": 95,
+                        "dr": 0,
+                        "hp": 500000,
+                        "pos": 2,
+                        "dfs": 50000,
+                        "card_id": 2,
+                        "lv": 1,
+                        "career": 0,
+                        "race": 0,
+                        "phsc": 99999,
+                        "crit": 10,
+                        "boss": 0,
+                        "speed": 80000,
+                        "id": "h122jiv_2-1388988191-GmuS3z"
+                    },
+                    {
+                        "mgc": 159,
+                        "phsc": 220,
+                        "hr": 95,
+                        "speed": 188,
+                        "hp": 1000000,
+                        "pos": 2,
+                        "dfs": 132,
+                        "card_id": 4900,
+                        "lv": 1,
+                        "career": 4,
+                        "race": 4,
+                        "4910": 1,
+                        "exp": 0,
+                        "4920": 20,
+                        "crit": 10,
+                        "boss": 0,
+                        "dr": 0,
+                        "id": "h122jiv_4900-1396856254-u2wMQJ"
+                    },
+                    0,
+                    {
+                        "mgc": 99999,
+                        "exp": 0,
+                        "hr": 95,
+                        "dr": 0,
+                        "hp": 1000000,
+                        "pos": 5,
+                        "dfs": 50000,
+                        "card_id": 7,
+                        "lv": 1,
+                        "career": 0,
+                        "race": 2,
+                        "phsc": 99999,
+                        "crit": 10,
+                        "boss": 0,
+                        "speed": 80000,
+                        "id": "h122jiv_7-1388988191-aajP1F"
+                    },
+                    0,
+                    0,
+                    0,
+                    0,
+                    0
+                ],
+                "dfd_skill": [
+                    0,
+                    0,
+                    0
+                ],
+                "card_att": {
+                    "h1nbyu9_4-1388991988-JzZNdp": {
+                        "base_hp": 0,
+                        "exp_max": 22,
+                        "crit": 10,
+                        "matk_history": 0,
+                        "quality": 6,
+                        "id": "4-1388991988-JzZNdp",
+                        "def_crystal": 0,
+                        "is_evolution": 0,
+                        "level_max": 1,
+                        "speed": 80000,
+                        "lv": 1,
+                        "is_boss": 0,
+                        "speed_history": 0,
+                        "def_history": 0,
+                        "matk": 99999,
+                        "c_id": 4,
+                        "star": 6,
+                        "hr": 95,
+                        "hp": 1000000,
+                        "base_patk": 0,
+                        "pos": 2,
+                        "evolution_flag": 0,
+                        "patk_history": 0,
+                        "patk": 99999,
+                        "remove_avail": [],
+                        "matk_crystal": 0,
+                        "patk_crystal": 0,
+                        "s_1": {
+                            "lv": 20,
+                            "avail": 2,
+                            "s": 2312,
+                            "exp": 0
+                        },
+                        "s_3": {
+                            "lv": 20,
+                            "avail": 2,
+                            "s": 2332,
+                            "exp": 0
+                        },
+                        "s_2": {
+                            "lv": 20,
+                            "avail": 2,
+                            "s": 2322,
+                            "exp": 0
+                        },
+                        "base_matk": 0,
+                        "career": 0,
+                        "hp_crystal": 0,
+                        "hp_history": 0,
+                        "dr": 0,
+                        "base_speed": 0,
+                        "race": 2,
+                        "exp": 0,
+                        "speed_crystal": 0,
+                        "def": 50000,
+                        "base_def": 0
+                    },
+                    "h1nbyu9_6-1388991988-tOGrIM": {
+                        "base_hp": 0,
+                        "exp_max": 22,
+                        "crit": 10,
+                        "matk_history": 0,
+                        "quality": 6,
+                        "id": "6-1388991988-tOGrIM",
+                        "def_crystal": 0,
+                        "is_evolution": 0,
+                        "level_max": 1,
+                        "speed": 80000,
+                        "lv": 1,
+                        "is_boss": 0,
+                        "speed_history": 0,
+                        "def_history": 0,
+                        "matk": 99999,
+                        "c_id": 6,
+                        "star": 6,
+                        "hr": 95,
+                        "hp": 1000000,
+                        "base_patk": 0,
+                        "pos": 1,
+                        "evolution_flag": 0,
+                        "patk_history": 0,
+                        "patk": 99999,
+                        "remove_avail": [],
+                        "matk_crystal": 0,
+                        "patk_crystal": 0,
+                        "s_1": {
+                            "lv": 20,
+                            "avail": 2,
+                            "s": 4412,
+                            "exp": 0
+                        },
+                        "s_3": {
+                            "lv": 20,
+                            "avail": 2,
+                            "s": 4432,
+                            "exp": 0
+                        },
+                        "s_2": {
+                            "lv": 20,
+                            "avail": 2,
+                            "s": 4422,
+                            "exp": 0
+                        },
+                        "base_matk": 0,
+                        "career": 0,
+                        "hp_crystal": 0,
+                        "hp_history": 0,
+                        "dr": 0,
+                        "base_speed": 0,
+                        "race": 1,
+                        "exp": 0,
+                        "speed_crystal": 0,
+                        "def": 50000,
+                        "base_def": 0
+                    },
+                    "h1nbyu9_8-1388991988-AqWvjd": {
+                        "base_hp": 0,
+                        "exp_max": 22,
+                        "crit": 10,
+                        "matk_history": 0,
+                        "quality": 6,
+                        "id": "8-1388991988-AqWvjd",
+                        "def_crystal": 0,
+                        "is_evolution": 0,
+                        "level_max": 1,
+                        "speed": 80000,
+                        "lv": 1,
+                        "is_boss": 0,
+                        "speed_history": 0,
+                        "def_history": 0,
+                        "matk": 99999,
+                        "c_id": 8,
+                        "star": 6,
+                        "hr": 95,
+                        "hp": 1000000,
+                        "base_patk": 0,
+                        "pos": 3,
+                        "evolution_flag": 0,
+                        "patk_history": 0,
+                        "patk": 99999,
+                        "remove_avail": [],
+                        "matk_crystal": 0,
+                        "patk_crystal": 0,
+                        "s_1": {
+                            "lv": 20,
+                            "avail": 2,
+                            "s": 1912,
+                            "exp": 0
+                        },
+                        "s_3": {
+                            "lv": 20,
+                            "avail": 2,
+                            "s": 1932,
+                            "exp": 0
+                        },
+                        "s_2": {
+                            "lv": 20,
+                            "avail": 2,
+                            "s": 1922,
+                            "exp": 0
+                        },
+                        "base_matk": 0,
+                        "career": 0,
+                        "hp_crystal": 0,
+                        "hp_history": 0,
+                        "dr": 0,
+                        "base_speed": 0,
+                        "race": 2,
+                        "exp": 0,
+                        "speed_crystal": 0,
+                        "def": 50000,
+                        "base_def": 0
+                    },
+                    "h1nbyu9_4600-1396855772-iU56Xk": {
+                        "base_hp": 960,
+                        "pos": 4,
+                        "crit": 10,
+                        "matk_history": 0,
+                        "speed": 216,
+                        "id": "4600-1396855772-iU56Xk",
+                        "def_crystal": 0,
+                        "level_max": 10,
+                        "quality": 4,
+                        "lv": 1,
+                        "is_boss": 0,
+                        "speed_history": 0,
+                        "def_history": 0,
+                        "matk": 144,
+                        "c_id": 4600,
+                        "star": 0,
+                        "hr": 95,
+                        "hp": 1000000,
+                        "base_patk": 260,
+                        "exp_max": 20,
+                        "pre_exp": 0,
+                        "step": 0,
+                        "patk_history": 0,
+                        "patk": 260,
+                        "remove_avail": [],
+                        "matk_crystal": 0,
+                        "patk_crystal": 0,
+                        "s_1": {
+                            "lv": 1,
+                            "avail": 2,
+                            "s": 4610,
+                            "exp": 0
+                        },
+                        "s_3": {
+                            "lv": 20,
+                            "avail": 2,
+                            "s": 4630,
+                            "exp": 0
+                        },
+                        "s_2": {
+                            "lv": 1,
+                            "avail": 0,
+                            "s": 4620,
+                            "exp": 0
+                        },
+                        "base_matk": 144,
+                        "evo": 0,
+                        "career": 1,
+                        "hp_crystal": 0,
+                        "hp_history": 0,
+                        "dr": 0,
+                        "base_speed": 216,
+                        "race": 0,
+                        "exp": 0,
+                        "speed_crystal": 0,
+                        "def": 72,
+                        "base_def": 72
+                    }
+                },
+                "atk_name": "???",
+                "aform": 5
+            },
+            "winer": 0
+        },
+        "old_gift": []
+    },
+    "game_config_version": {
+        "shop": 10,
+        "code": 3,
+        "map_random_event": 1,
+        "building_base_laboratory": 2,
+        "map_main_story": 13,
+        "box": 5,
+        "resource_detail": 4,
+        "leader_skill_tree": 1684,
+        "reward_once": 7,
+        "equip_evolution": 6,
+        "equip": 9,
+        "character_train_rate": 1,
+        "building_base_harbor": 3,
+        "skill_levelup": 1,
+        "skill_detail": 21,
+        "loading": 1,
+        "leader_skill": 7,
+        "reward_daily": 6,
+        "middle_map_data": 7,
+        "character_train": 3,
+        "combat_base": 1,
+        "character_detail": 23,
+        "daily_award": 4,
+        "map_fight": 20,
+        "gacha": 7,
+        "charge": 3,
+        "enemy_detail": 1672,
+        "loadingtips": 1,
+        "role": 6,
+        "leader_skill_develop": 2,
+        "cityid_cityorderid": 1759,
+        "role_detail": 12,
+        "map": 43,
+        "notice": 3,
+        "character_train_time": 2,
+        "character_base_rate": 3,
+        "chapter": 5,
+        "guide_team": 1,
+        "building_mine": 1653,
+        "arena_award": 3,
+        "equip_strongthen": 3,
+        "formation": 1,
+        "active_detail": 11,
+        "map_title_detail": 58,
+        "role_skill": 3,
+        "middle_map": 1,
+        "school_train_type_config": 1,
+        "active_chapter": 18,
+        "character_strengthen": 4,
+        "middle_building_mine": 1792,
+        "character_base": 3,
+        "exchange": 5,
+        "guide": 4,
+        "drama": 12,
+        "item": 21,
+        "guild_shop": 2,
+        "race": 1,
+        "combat_skill": 2,
+        "building_base_school": 2,
+        "school_train_time_config": 1,
+        "formation_attack": 1594,
+        "guild_client": 1,
+        "arena_shop": 8
+    },
+    "user_status": {
+        "action_point": 100,
+        "action_point_max": 100,
+        "metal_pool_max": 120,
+        "action_point_rate": 360,
+        "uid": "h1zndhy",
+        "level": 2,
+        "food": 1010,
+        "show_name": "",
+        "metal": 1005,
+        "exp_max": 20,
+        "energy_pool_max": 120,
+        "association_id": 0,
+        "food_pool_max": 120,
+        "role": 3,
+        "action_point_update_left": 0,
+        "exp": 8,
+        "guide": {
+            "1": 0
+        },
+        "server_time": 1389026537.929464,
+        "coin": 0,
+        "energy": 1005,
+        "crystal": 0
+    }
+}

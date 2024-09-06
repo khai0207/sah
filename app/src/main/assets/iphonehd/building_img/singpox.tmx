@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" width="20" height="20" tilewidth="80" tileheight="40">
+ <tileset firstgid="1" name="surface" tilewidth="80" tileheight="40" spacing="2" margin="2">
+  <image source="surface.png" width="494" height="674"/>
+ </tileset>
+ <tileset firstgid="97" name="wall" tilewidth="80" tileheight="40">
+  <image source="wall.png" width="480" height="280"/>
+ </tileset>
+ <layer name="earth" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxzZWBgcB3Fo3gUj+JRPIpJxADbn2vR
+  </data>
+ </layer>
+ <layer name="above" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2DwAnUg1oRiHSqYpwbEulCsPQjNUwViDSjWooJ5o2AU0BIAAC+EAps=
+  </data>
+ </layer>
+ <layer name="wall" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgF1AQFQJxDJM4nwrxMEuzOGjVv1LwRZl4uEGcTifNIsHsUEAcAq0cSXw==
+  </data>
+ </layer>
+ <layer name="wallup" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFtASZSOysUfNGzRs1b0iZNwrwAwAEEQnl
+  </data>
+ </layer>
+ <layer name="upup" width="20" height="20">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2DwgBwS8VAH2STiUTAKBhMAAKBZChU=
+  </data>
+ </layer>
+</map>

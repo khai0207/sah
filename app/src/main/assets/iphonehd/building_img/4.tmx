@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" width="88" height="88" tilewidth="80" tileheight="40">
+ <tileset firstgid="1" name="surface" tilewidth="80" tileheight="40" spacing="2" margin="2">
+  <image source="surface.png" width="494" height="674"/>
+ </tileset>
+ <tileset firstgid="97" name="road" tilewidth="80" tileheight="40" spacing="2" margin="2">
+  <image source="road.png" width="494" height="1010"/>
+ </tileset>
+ <tileset firstgid="241" name="wall" tilewidth="80" tileheight="40">
+  <image source="wall.png" width="480" height="280"/>
+ </tileset>
+ <tileset firstgid="283" name="zuoxian" tilewidth="80" tileheight="40">
+  <image source="zuoxian.png" width="80" height="40"/>
+ </tileset>
+ <tileset firstgid="284" name="youxian" tilewidth="80" tileheight="40">
+  <image source="youxian.png" width="80" height="40"/>
+ </tileset>
+ <layer name="earth" width="88" height="88">
+  <data encoding="base64" compression="zlib">
+   eJztnU2S3CAMhX2JHCAHyGS2OcDQvv+JUllQpVKeBG0Jg5m3UE1P/2D5Qy2EoFE5juNLSQHPvSP/Pv+68Lmz8XpPm8Vp6yXaKOK98vGr8zo9+hfwWOuAru/pfx74fr5AW0g33Tc919FtWtfo7SP0/lYflMZfeT8eQ62j1U6rf5GNe21pZkjH8/hfP6+fTud5/b93f5U3+u4UdZ0rvgHpWA7fjrz+GynIL0T9IeJt2civoPxcSKpOP4Ly5w1p9Sv55vDVPqI+Jt88+5V+qI4J5BvjW8cz6YPleEu+cfv14k/yzfcPtN9cvjr+lrE6+cb51vkEmi+Rb358JoV88/wDms+Tb4xva85PvjFBeQ7yzeeLcnAv8k3ja+UJyTeHr5XHJ984X+R7a45nNpMd+KJ1OPLN9Q9WnDabyS58UW6dfMn3aXxlPEH/m8cX5SBov3GpsYLeZ0O++fYr4+DKezaTXfjqeQXtN5cv49/xfFEOYjaTEXzvFC+3Tr7ku7qg9Qs5xs3W7+lC+72Pr94DXhbQ7+n5fRQ/SD8xW79d+Fox8Gz9ns5Xz4d1DDxbvx346n07K82Pn8632i3a/0C+cfFyv+Sbw9eaYzB+yOGr7Zb+dyxf+ocxfBn/juGrRcbCs/XbkS/js1y+3jkQs/XbgS9a4yTfXL7W/t/Z+j2dr8z1Srutv4mbrd/TxfILXB/K57vi/O3p0lp/q37s88D+7bfxvJSPjves5DNn8L1TZjO5g28d9+7cS1S/D7OZ3Gm/d/Pd0X6ttQvyzeHrnRFIvjHRZ2voWJh84/aL8g/km8tX/zaAfMfZr/TJ5Bvnq8c3uReNfPP50n5z+aIYeBbfzwWYZPP1zjj67vYbzaW08pPkm8+X9pvPF8UQ5DuOL+13nH+QrN85C5B8MV9rf985ge9q+fXR4xvtN4cvqnsyg+/HAkyz+Xq1Wmi/ef4B7QMm3zz7pf8da78r+N8d+Xr5SfLN8Q9WjQbyjYlVD5D+Ic9+dWyG4rSrNSivSG+dvTt1iurdqgF5lUM9a8byPz3tW2cLWjUhdc1Qr56i/Jw8y1CekaPrX16pwYjuV17D2kPVw07XtYzUgbT6xeKo78VaB2txQnVa9Zkk3lkE2XZr2Yvle3pt1dPnSv3MiI9p+QP0+l/ylbI8
+  </data>
+ </layer>
+ <layer name="above" width="88" height="88">
+  <data encoding="base64" compression="zlib">
+   eJzt0NEJwjAARVEXUBRdRFF0/8l0gkKJt0p7DrzPkOTudgDwfYfB87evvGK99G3p29K3pW9L35a+LX1b+rb0benbGu17/ew+Y1sz2pdp+rb0benb0relb0vflr4tfVv6tvRt6dvSt6VvS9/W/rPjggMAAAAAAAAAWLvTgrss9KetOv/6ASunb0vflr4tfVv6tvRt6dvSt6VvS9+Wvi19W/q2ttj3MWOvwbu22HeO5+B5fafp29K3pW9L35a+LX1b+rb0benb0heAf/UGVDoQhw==
+  </data>
+ </layer>
+ <layer name="road" width="88" height="88">
+  <data encoding="base64" compression="zlib">
+   eJzt2DtOA0EQAFHfma+5Cp8I7ukNCByxlmaKmoV6UouokbokbzCnU5Lk6J62eV5k/33g/6yqvqz6surLqi+rvqz6surLqi+rvqz6surLqi+rvqz67nsZmPttHuX91fueB+Zumwd5f/W+I/o+sOrLqi+rvqz6surLqi+rvqz6surLqi+rvqyV+n5t8yYMaaW+qzr6++/I/ozZc/T3X3P/fEPfEfbv296n2ffZ+zT7PnufZt9n79Ps++x9mn2fvU+z77P3afZ99j7Nvs/ep9n32fs0+z57n2bfZ+/T7PvsfZp9n71/i//8/jvj/XjPyNvn6Njvt6u//46yf9+/8X14FeZz0n32/qo+vv/afer7M3t/VfVl1ZdVX1Z9WfVl1ZdVX1Z9WfVl1Zd13fevv/8arvv2/jtf3wdWfVn1ZdWXVV9WfVn1ZdWXVV9WfVn1ZdWXVV9WfVn1TZLMdgHYAhL6
+  </data>
+ </layer>
+ <layer name="wall" width="88" height="88">
+  <data encoding="base64" compression="zlib">
+   eJzt3MkJgFAQBUE9umH+2WoIemj8SBW8+9ABzDQBwHiW+esL/k3flr4tfVv6tvRt6dvSt6VvS9+Wvq3j7ru9GAAAAAAAAAAAAAAAAAAAAAAAAMAo9vn5Tv/UUqu+KX1b+rb0benb0relb0vflr4tfVv6AjCqCzSvAhk=
+  </data>
+ </layer>
+ <layer name="line1" width="88" height="88">
+  <data encoding="base64" compression="zlib">
+   eJztkLGNAwEMw5I5sv+ev4FSKPyTAapzQcLg6+Wcc25hn3d3t76n+W++dvbNvnb2zb529s2+dvbNvnb2zb529s2+dvbNvnb2zb529s2+dvbNvnb2zb529v3t/et/Wt/TvH1Z3r4sb1+Wty/L25fl7cvy9mV5+7K8fVnevixvX5a3L8vbl+Xty/L2ZXn7srx9Wd6+LG/fbX7dd51f913n133X+XXfdX7dd51f913n133X+XXfdX7dd51f913n133X+XXfdX7dd51f913n133Xedr39D9P8/ZlefuyvH1Z3r4sb1+Wty/L25fl7cvy9mV5+7K8fVnevixvX5a3L8vbl+Xty/L2ZXn7srx9Wf6br519s6+dfbOvnX2zr519s6+dfbOvnX2zr519s6+dfbOvnX2zr519s6+dfbOvnX2zzznn3P/sDxbakUE=
+  </data>
+ </layer>
+ <layer name="line2" width="88" height="88">
+  <data encoding="base64" compression="zlib">
+   eJzt1rEJQwEMQ8GfPbL/nGlTpAguLAvu4K0g9DwAXPB+6TuALem9uxbAlvTeXQtgS3rvrgXAf+w10Cq9X+0BTKX3qz2AqfR+tQcAQJf0f2wPYCq9X+0BTKX3qz0AAPgl/VP9X+Ca9H61BzCV3q/2AKbsF0CH9F5fC2BLeu+uBbAlvXfXAtiS3rtrAfzrA94Gk38=
+  </data>
+ </layer>
+</map>

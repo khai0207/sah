@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" width="32" height="32" tilewidth="80" tileheight="40">
+ <tileset firstgid="1" name="road" tilewidth="80" tileheight="40" spacing="2" margin="2">
+  <image source="road.png" trans="ff00ff" width="494" height="1010"/>
+ </tileset>
+ <tileset firstgid="145" name="surface" tilewidth="80" tileheight="40" spacing="2" margin="2">
+  <image source="surface.png" trans="ff00ff" width="494" height="674"/>
+ </tileset>
+ <tileset firstgid="241" name="wall" tilewidth="80" tileheight="40" spacing="2" margin="2">
+  <image source="wall.png" trans="ff00ff" width="480" height="280"/>
+ </tileset>
+ <tileset firstgid="271" name="wall" tilewidth="80" tileheight="40">
+  <image source="wall.png" trans="ff00ff" width="480" height="280"/>
+ </tileset>
+ <layer name="earth" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzt0bEJADAIRFH33yADiJkrk6S/RizEEH7xSvkHupk5AACJlaBPf7K/Bf0avQ/R/V/6b/W7e/Tr/TOwC3+6FZKSAA==
+  </data>
+ </layer>
+ <layer name="roaddown" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztzUENAAAIBKDrpf1zGcGnc4MCJADAd3X89/EPAOwGwH0AeA==
+  </data>
+ </layer>
+ <layer name="road" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztlVsKgzAQRbOHarVuxIJtdyRW7f7pCBmIgclrqmlILpyfBHIgl0mEcE8DtIx9boq/+HP3X4GOoAJmC1x/DdwILsCiMAKTtsb1+9z/CnyYzqP9VJdUv7b+1X30m86kuqT6tfWv7j+Bl+VMn/jeP/p/lVT8g+Qewb/lIekj+TEp9H/k/KM/dP7x/QidfxdM0d/Ps//ff/C/xf7/Ptuv/9+53X/Oft/ziz89/xfVaS7d
+  </data>
+ </layer>
+ <layer name="wall" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztlEsKwCAMBfUQ2VkKrqSrLsz9r9YICUjBQktJBDMQXM57/kJwnO+c0f0r+521KBPct0oZMg3QJBqMerkquwpnQF6z4r5IV+T+8KP/iM/T3LXzNrTPoIHskt6g6AbeA+zOX9N/J03wJkfsxtl6/2aQZZb+Wt3lL9T8D0dYvklLVu3tvOcCYhMI5Q==
+  </data>
+ </layer>
+ <layer name="up" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzt08EJACAMQ9FsoXX/Qb0UHEChxfwHOef0JQC/mOb/OFauSuTgo7r/6v9ObvsP0XAnw/wfwFsbVlEBdA==
+  </data>
+ </layer>
+</map>

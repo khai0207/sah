@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" width="88" height="88" tilewidth="80" tileheight="40">
+ <tileset firstgid="1" name="surface" tilewidth="80" tileheight="40" spacing="2" margin="2">
+  <image source="surface.png" width="494" height="674"/>
+ </tileset>
+ <layer name="earth" width="88" height="88">
+  <data encoding="base64" compression="zlib">
+   eJzt3EERgDAQBMGYQECE4d8GGvKgkoF+tICb99bNMcYEYLt7wbVo920n0FffMn31LdNX3zJ99S3TV9+y1Wb66nsSffUt01ffMn31LdNX3zJ99QUAAAAAAAAAAACAnd7c3Nrg6qtvm776lumrb5m++pbpq2+ZvvqW6atvmb5n9135Gbn7Vn2/R199y/TVt0xffcv01bdMX4D/eQAshe+G
+  </data>
+ </layer>
+ <layer name="above" width="88" height="88">
+  <data encoding="base64" compression="zlib">
+   eJzt1V1Kw0AARtGsQKvSrdX+7H8ftq/agENzKybnwPcSQpjcl5kmAP6by+D7+2/7WPxE66JvS9+Wvi19WyN9by31/b3LpG9J35a+PffbMo4zz/UddxzYefDb+rb0benb0relb0vflr4tfVv6tvRt6Ttvd2ej9P3ZoJy++i5N35a+rXv3WLX3J/0TAAAAAAAAAADMeb3u7Ynbmpe/PsDK6dvSt6VvS9+Wvi19W/q29G3p29K3pW9L35a+LX1bj/b9vO40sK15tO9hkVOsl74tfVv6tvRt6dvSt6VvS9+Wvi19AbbpC2ibKWw=
+  </data>
+ </layer>
+ <layer name="块层 3" width="88" height="88">
+  <data encoding="base64" compression="zlib">
+   eJzt1kFqhEAARUG3HsD7XzWrgJiECbYPxa6CxjS4mZfhM+uyLOvu7F19n9H6x9/FfUb6ttYP5/juyH1G+raO+1DuxYz0bdmHlr4t+9DSt/VpH5z/7+eZvsd3R+4zsg8tfVt379cbzkjf47sj9xnZh5a+rbu36w1npO/x3ZH7jOxDS9+WfWjp27IPLX1b9qGlb8s+tPRt2YeWvi370NK3ZR9a+rbsQ0vfln1o6duyDy19W/ahpW/LPrT0bdmHlr4t+9DSt2UfWvq27ENL35Z9aOnbsg8tfVv2oaVvyz609G3Zh5a+LfvQ0rdlH1r6tuxDS9+WfWjp27IPLX1b9qGlb8s+tPRt7bdgO/l86nmCbfdcT9z3fH9/tw0+v+n7k+9v6837+7T/79W/F572+e6mb0vflp7X+wIlcCqa
+  </data>
+ </layer>
+</map>

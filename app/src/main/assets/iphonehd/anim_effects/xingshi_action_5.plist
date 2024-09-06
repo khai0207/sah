@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>xingshi_action_5.swf1.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{138,157}}</string>
+                <key>offset</key>
+                <string>{0,6}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{1,1},{138,157}}</string>
+                <key>sourceSize</key>
+                <string>{140,171}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>xingshi_action_5-hd.pvr.ccz</string>
+            <key>size</key>
+            <string>{142,161}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:2896a2414878b29f056b0c7ae49e78a2$</string>
+            <key>textureFileName</key>
+            <string>xingshi_action_5-hd.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

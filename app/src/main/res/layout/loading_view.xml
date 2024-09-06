@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/ll_content"
+    android:background="@drawable/bg_loading_view"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+    <ImageView
+        android:id="@+id/iv_icon"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/sdk_init_loading"
+        android:layout_centerInParent="true"/>
+    <TextView
+        android:textSize="12dp"
+        android:textColor="#999999"
+        android:id="@+id/tv_text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="正在加载,请稍后~"
+        android:singleLine="true"
+        android:layout_below="@+id/iv_icon"
+        android:layout_centerHorizontal="true"/>
+</RelativeLayout>

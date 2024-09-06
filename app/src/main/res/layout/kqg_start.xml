@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:background="@color/app_front"
+    style="@style/w_h_full">
+    <RelativeLayout style="@style/w_h_full">
+        <ImageView
+            android:id="@+id/loading_bg"
+            android:background="@drawable/dl_login_bg_new"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="center"
+            android:layout_centerInParent="true"
+            android:contentDescription="@null"/>
+    </RelativeLayout>
+    <RelativeLayout style="@style/w_h_full">
+        <ImageView
+            android:id="@+id/loading_tip"
+            android:background="@drawable/dl_login_bg_new"
+            android:visibility="gone"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:scaleType="center"
+            android:layout_centerInParent="true"
+            android:contentDescription="@null"/>
+    </RelativeLayout>
+</FrameLayout>

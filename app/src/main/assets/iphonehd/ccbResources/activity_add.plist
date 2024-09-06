@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>button_active_god.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{97,101}}</string>
+                <key>offset</key>
+                <string>{1,-6}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{20,13},{97,101}}</string>
+                <key>sourceSize</key>
+                <string>{135,115}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>activity_add-hd.pvr.ccz</string>
+            <key>size</key>
+            <string>{101,105}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:80b346841cfce22407e1b7a6cea9b00f$</string>
+            <key>textureFileName</key>
+            <string>activity_add-hd.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

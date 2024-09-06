@@ -1,0 +1,52 @@
+package com.netease.nimlib.n.d.a;
+
+import com.netease.nimlib.n.c.i;
+import defpackage.C$r8$backportedMethods$utility$Objects$2$equals;
+import java.util.Iterator;
+import java.util.Map;
+import org.json.JSONArray;
+
+/* compiled from: LoginEventRuleNetworkNotConnect.java */
+/* loaded from: classes.dex */
+public class e implements com.netease.nimlib.n.d.a.a.d {
+    @Override // com.netease.nimlib.n.d.a.a.d
+    public boolean a(com.netease.nimlib.n.e.e eVar) {
+        if (eVar == null) {
+            return true;
+        }
+        if (!eVar.s()) {
+            return false;
+        }
+        if (Boolean.FALSE.equals(eVar.k())) {
+            return true;
+        }
+        Iterator<i> it = eVar.l().iterator();
+        while (it.hasNext()) {
+            if (Boolean.FALSE.equals(it.next().c())) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    @Override // com.netease.nimlib.n.d.a.a.d
+    public boolean a(Map<String, Object> map) {
+        try {
+            if (C$r8$backportedMethods$utility$Objects$2$equals.equals(map.get("action"), "auto_login")) {
+                Object obj = map.get("extension");
+                if (!(obj instanceof JSONArray)) {
+                    return false;
+                }
+                JSONArray jSONArray = (JSONArray) obj;
+                for (int i = 0; i < jSONArray.length(); i++) {
+                    if (Boolean.FALSE.equals(jSONArray.optJSONObject(i).opt("net_connect"))) {
+                        return true;
+                    }
+                }
+            }
+        } catch (Throwable th) {
+            th.printStackTrace();
+        }
+        return false;
+    }
+}

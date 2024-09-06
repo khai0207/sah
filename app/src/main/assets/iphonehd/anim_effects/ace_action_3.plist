@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>ace_action_3.swf1.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{110,139}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{110,139}}</string>
+                <key>sourceSize</key>
+                <string>{110,139}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>ace_action_3-hd.pvr.ccz</string>
+            <key>size</key>
+            <string>{114,143}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:b655a6c8a3b5c38c1b5dfa38f161b43c$</string>
+            <key>textureFileName</key>
+            <string>ace_action_3-hd.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

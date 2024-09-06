@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>kuzan_action_3.swf1.png</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{164,156}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{164,156}}</string>
+                <key>sourceSize</key>
+                <string>{164,156}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>kuzan_action_3-hd.pvr.ccz</string>
+            <key>size</key>
+            <string>{168,160}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:d91558321990d04c3a532a278a59a155$</string>
+            <key>textureFileName</key>
+            <string>kuzan_action_3-hd.pvr.ccz</string>
+        </dict>
+    </dict>
+</plist>

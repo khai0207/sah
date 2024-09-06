@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" width="60" height="60" tilewidth="80" tileheight="40">
+ <tileset firstgid="1" name="earth_resouce" tilewidth="80" tileheight="40" spacing="2" margin="2">
+  <tileoffset x="2" y="2"/>
+  <image source="earth_resouce.png" width="512" height="512"/>
+ </tileset>
+ <tileset firstgid="73" name="road" tilewidth="80" tileheight="40" spacing="2" margin="2">
+  <tileoffset x="2" y="2"/>
+  <image source="road.png" width="256" height="512"/>
+ </tileset>
+ <layer name="earth" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt1ssKwjAQheG0qEUreHsJcaEufP9ncwoNTIepVLIISf8PDl20izk0TdqEEBrJabz+m9LEuW3fLtTfV3euua+3ltfQV3fszD3vmVL76o5D2vEa13gbpn1159J469j29fay2Lk0Xl/9nufOqfhMaXSHodtGcliYY4Z5U+n3NfQ9S3YL02eYN9Va+8bovjfJ5Ue2GeZNZf8ndd8++HtVDedvPHds373kLnk6eWeYN5Xdn72+H8nDySvDvKns+ryG6fdZW18AAAAAAAAAAAAAAAAAAIC1+QITcwij
+  </data>
+ </layer>
+ <layer name="jianbian" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJztz8EJACAMBMG0J/iw/2pMBb6CYpiB/d9FAAAAVUY2D3WzXg+4zF8AAAAAAAAAAAAAfrIBfO4DTg==
+  </data>
+ </layer>
+ <layer name="road" width="60" height="60">
+  <data encoding="base64" compression="zlib">
+   eJzt1kEKgzAQBdDcUaEt6v2vUQsuyiBRsbZM8x4M+HGTDxlIX0oZl5nm6Ss5zut/Nve372EjR8MlJ7pW630f89yW6UKO0331pJ8R+9b2dy1nc+Q+r+VsWutb29c9OZuj+2p/c2mtr/3d/34ef3Des868JzNqre/Wfv5bXwAAAAAAAAAAAIDWPAFKMjtl
+  </data>
+ </layer>
+</map>

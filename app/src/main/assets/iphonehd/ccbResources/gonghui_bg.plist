@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>gonghui_beijing.jpg</key>
+            <dict>
+                <key>frame</key>
+                <string>{{2,2},{1436,640}}</string>
+                <key>offset</key>
+                <string>{0,0}</string>
+                <key>rotated</key>
+                <false/>
+                <key>sourceColorRect</key>
+                <string>{{0,0},{1436,640}}</string>
+                <key>sourceSize</key>
+                <string>{1436,640}</string>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>2</integer>
+            <key>realTextureFileName</key>
+            <string>gonghui_bg-hd.jpg</string>
+            <key>size</key>
+            <string>{1440,644}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:73292102a7760002af7d8dc839c3d3d1:1/1$</string>
+            <key>textureFileName</key>
+            <string>gonghui_bg-hd.jpg</string>
+        </dict>
+    </dict>
+</plist>

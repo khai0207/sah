@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:drop="http://schemas.android.com/apk/res-auto"
+    android:layout_gravity="center"
+    android:background="@color/app_front"
+    android:layout_width="@dimen/dialog_center_width"
+    android:layout_height="25dp">
+    <RelativeLayout
+        android:background="@null"
+        android:layout_width="210dp"
+        android:layout_height="23dp"
+        android:layout_centerHorizontal="true">
+        <TextView
+            android:id="@+id/pay_select_bg"
+            android:background="@drawable/sdk_ui_select_no"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"/>
+        <ImageView
+            android:id="@+id/pay_select_logo"
+            android:background="@drawable/sdk_pay_weixin"
+            android:layout_width="23dp"
+            android:layout_height="23dp"
+            android:layout_marginLeft="2dp"
+            android:scaleType="fitCenter"
+            android:layout_alignParentLeft="true"
+            android:layout_centerVertical="true"
+            android:contentDescription="@null"/>
+        <TextView
+            android:textSize="@dimen/dialog_text_des_size"
+            android:typeface="normal"
+            android:textColor="@color/main_text"
+            android:gravity="center"
+            android:id="@+id/pay_select_des"
+            android:layout_width="wrap_content"
+            android:layout_height="25dp"
+            android:layout_marginLeft="10dp"
+            android:layout_toRightOf="@+id/pay_select_logo"
+            android:layout_centerVertical="true"/>
+    </RelativeLayout>
+</RelativeLayout>

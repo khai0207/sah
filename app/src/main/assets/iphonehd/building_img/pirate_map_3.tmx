@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" width="28" height="28" tilewidth="80" tileheight="40">
+ <tileset firstgid="1" name="surface" tilewidth="80" tileheight="40" spacing="2" margin="2">
+  <image source="surface.png" width="494" height="674"/>
+ </tileset>
+ <layer name="earth" width="28" height="28">
+  <data encoding="base64" compression="zlib">
+   eJztlEEKACAIBP2Q1f9f1zUiSkVxiw5ziRDbWWIi4k8YVXk+0pzurCgA2WSjyQA9L2sPdkg6mjEruwsozM6R3nDyjbRrhAuvnJCcIaHZNaprXnOtc6Sdu8nrK1j+A6knJJ8doXqKBQ==
+  </data>
+ </layer>
+</map>

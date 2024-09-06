@@ -1,0 +1,312 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    android:versionCode="5"
+    android:versionName="1.4"
+    android:installLocation="auto"
+    android:compileSdkVersion="28"
+    android:compileSdkVersionCodename="9"
+    package="com.kaiqigu.cjyxyn.kvsdk"
+    platformBuildVersionCode="28"
+    platformBuildVersionName="9">
+    <uses-sdk
+        android:minSdkVersion="24"
+        android:targetSdkVersion="28"/>
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE"/>
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS"/>
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>
+    <uses-permission android:name="android.permission.CAMERA"/>
+    <uses-permission android:name="android.permission.RECORD_AUDIO"/>
+    <uses-permission android:name="android.permission.READ_PHONE_STATE"/>
+    <uses-permission android:name="android.permission.FLASHLIGHT"/>
+    <uses-permission android:name="android.permission.VIBRATE"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
+    <permission
+        android:name="com.netease.nim.demo.permission.RECEIVE_MSG"
+        android:protectionLevel="signature"/>
+    <uses-permission android:name="com.netease.nim.demo.permission.RECEIVE_MSG"/>
+    <supports-screens
+        android:anyDensity="true"
+        android:smallScreens="true"
+        android:normalScreens="true"
+        android:largeScreens="true"
+        android:resizeable="true"/>
+    <uses-feature android:glEsVersion="0x20000"/>
+    <queries>
+        <intent>
+            <action android:name="*"/>
+            <data android:scheme="tbopen"/>
+        </intent>
+        <package android:name="com.eg.android.AlipayGphone"/>
+        <package android:name="com.eg.android.AlipayGphoneRC"/>
+        <package android:name="hk.alipay.wallet"/>
+    </queries>
+    <uses-permission android:name="com.asus.msa.SupplementaryDID.ACCESS"/>
+    <uses-permission android:name="com.asus.permission.READ_SDID_PROVIDER"/>
+    <uses-permission android:name="freemme.permission.msa"/>
+    <application
+        android:theme="@style/app_"
+        android:label="@string/app_name"
+        android:icon="@drawable/ic_launcher"
+        android:name="com.kqg.main.base.BaseApplication"
+        android:launchMode="singleTask"
+        android:noHistory="true"
+        android:allowBackup="true"
+        android:extractNativeLibs="false"
+        android:usesCleartextTraffic="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory">
+        <activity
+            android:theme="@android:style/Theme.NoTitleBar.Fullscreen"
+            android:label="@string/app_name"
+            android:name="www.kaiqigu.com.JinQu"
+            android:launchMode="singleTop"
+            android:screenOrientation="landscape"
+            android:configChanges="screenSize|orientation">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN"/>
+                <category android:name="android.intent.category.LAUNCHER"/>
+            </intent-filter>
+        </activity>
+        <activity
+            android:label="@string/app_name"
+            android:name="com.kqg.main.activity.InitActivity"
+            android:screenOrientation="landscape"/>
+        <activity
+            android:theme="@android:style/Theme.Translucent"
+            android:name="com.kqg.main.activity.BindToEnterPassword"
+            android:screenOrientation="landscape"
+            android:configChanges="screenSize|orientation|navigation|keyboardHidden"/>
+        <activity
+            android:theme="@android:style/Theme.Translucent"
+            android:name="com.kqg.main.activity.LoginActivity"
+            android:screenOrientation="landscape"
+            android:configChanges="screenSize|orientation|navigation|keyboardHidden"/>
+        <activity
+            android:theme="@android:style/Theme.Translucent"
+            android:name="com.kqg.main.activity.RegisterActivity"
+            android:screenOrientation="landscape"
+            android:configChanges="screenSize|orientation|navigation|keyboardHidden"/>
+        <activity
+            android:theme="@android:style/Theme.Translucent"
+            android:name="com.kqg.main.activity.ForgetPwdActivity"
+            android:screenOrientation="landscape"
+            android:configChanges="screenSize|orientation|navigation|keyboardHidden"/>
+        <activity
+            android:theme="@android:style/Theme.Translucent"
+            android:name="com.kqg.main.activity.AgreeContentActivity"
+            android:screenOrientation="landscape"
+            android:configChanges="screenSize|orientation|navigation|keyboardHidden"/>
+        <activity
+            android:theme="@android:style/Theme.Translucent"
+            android:name="com.kqg.main.activity.QuickRegistActivity"
+            android:screenOrientation="landscape"
+            android:configChanges="screenSize|orientation|navigation|keyboardHidden"/>
+        <activity
+            android:theme="@android:style/Theme.Translucent"
+            android:name="com.kqg.main.activity.QuickLoginActivity"
+            android:screenOrientation="landscape"
+            android:configChanges="screenSize|orientation|navigation|keyboardHidden"/>
+        <activity
+            android:theme="@android:style/Theme.Translucent"
+            android:name="com.kqg.main.activity.BindActivity"
+            android:screenOrientation="landscape"
+            android:configChanges="screenSize|orientation|navigation|keyboardHidden"/>
+        <activity
+            android:theme="@android:style/Theme.Translucent"
+            android:name="com.kqg.main.activity.WelcomeActivity"
+            android:screenOrientation="landscape"
+            android:configChanges="screenSize|orientation|navigation|keyboardHidden"/>
+        <activity
+            android:theme="@android:style/Theme.Translucent"
+            android:name="com.kqg.main.activity.CertificationActivity"
+            android:screenOrientation="landscape"
+            android:configChanges="screenSize|orientation|navigation|keyboardHidden"/>
+        <activity
+            android:theme="@android:style/Theme.Translucent"
+            android:name="com.kqg.main.activity.QuitGame"
+            android:screenOrientation="landscape"
+            android:configChanges="screenSize|orientation|navigation|keyboardHidden"/>
+        <activity
+            android:theme="@android:style/Theme.Translucent"
+            android:name="com.kqg.main.activity.ChangePhone"
+            android:screenOrientation="landscape"
+            android:configChanges="screenSize|orientation|navigation|keyboardHidden"/>
+        <activity
+            android:theme="@android:style/Theme.Translucent"
+            android:name="com.kqg.main.activity.ConfirmChangePhone"
+            android:screenOrientation="landscape"
+            android:configChanges="screenSize|orientation|navigation|keyboardHidden"/>
+        <activity
+            android:theme="@android:style/Theme.Translucent"
+            android:name="com.kqg.main.activity.FindPasswordByPhone"
+            android:screenOrientation="landscape"
+            android:configChanges="screenSize|orientation|navigation|keyboardHidden"/>
+        <activity
+            android:theme="@android:style/Theme.Light"
+            android:name="com.kqg.main.activity.PaySelectActivity"
+            android:screenOrientation="landscape"
+            android:configChanges="screenSize|orientation|navigation|keyboardHidden"/>
+        <activity
+            android:theme="@android:style/Theme.Light"
+            android:name="com.kqg.main.activity.PayConfirmActivity"
+            android:screenOrientation="landscape"
+            android:configChanges="screenSize|orientation|navigation|keyboardHidden"/>
+        <activity
+            android:theme="@android:style/Theme.Light"
+            android:name="com.kqg.main.activity.PayResultActivity"
+            android:screenOrientation="landscape"
+            android:configChanges="screenSize|orientation|navigation|keyboardHidden"/>
+        <meta-data
+            android:name="ali_screen_orientation"
+            android:value="landscape"/>
+        <meta-data
+            android:name="UMENG_APPKEY"
+            android:value="536aff2c56240bb2c2023306"/>
+        <meta-data
+            android:name="UMENG_CHANNEL"
+            android:value="kvgames"/>
+        <meta-data
+            android:name="PLATFORM_CHANNEL"
+            android:value="kvgames"/>
+        <meta-data
+            android:name="com.snowfish.customer"
+            android:value="SNOWFISH"/>
+        <meta-data
+            android:name="com.snowfish.channel"
+            android:value="SNOWFISH"/>
+        <meta-data
+            android:name="PlatformClass"
+            android:value="www.kaiqigu.com.dcaSdk"/>
+        <meta-data
+            android:name="com.snowfish.sdk.version"
+            android:value="2"/>
+        <meta-data
+            android:name="com.snowfish.appid"
+            android:value="{40FA776F-DF9E04BF}"/>
+        <meta-data
+            android:name="com.snowfish.channelid"
+            android:value="{4ff036a1-3254eafe}"> //此参数不做修改，保持默认就行，打包会自动替换 
+        </meta-data>
+        <meta-data
+            android:name="android.max_aspect"
+            android:value="2.4"/>
+        <meta-data
+            android:name="com.netease.nim.appKey"
+            android:value="c790c9d270bf631d0d024b54ffcb39ab"/>
+        <service
+            android:name="com.netease.nimlib.service.NimService"
+            android:process=":core"/>
+        <service
+            android:name="com.netease.nimlib.service.NimService.Aux"
+            android:process=":core"/>
+        <service
+            android:name="com.netease.nimlib.job.NIMJobService"
+            android:permission="android.permission.BIND_JOB_SERVICE"
+            android:exported="false"
+            android:process=":core"/>
+        <receiver
+            android:name="com.netease.nimlib.service.NimReceiver"
+            android:exported="false"
+            android:process=":core">
+            <intent-filter>
+                <action android:name="android.net.conn.CONNECTIVITY_CHANGE"/>
+            </intent-filter>
+        </receiver>
+        <receiver android:name="com.netease.nimlib.service.ResponseReceiver"/>
+        <service android:name="com.netease.nimlib.service.ResponseService"/>
+        <provider
+            android:name="com.netease.nimlib.ipc.NIMContentProvider"
+            android:exported="false"
+            android:process=":core"
+            android:authorities="com.kaiqigu.cjyxyn.kvsdk.ipc.provider"/>
+        <provider
+            android:name="com.netease.nimlib.ipc.cp.provider.PreferenceContentProvider"
+            android:exported="false"
+            android:authorities="com.kaiqigu.cjyxyn.kvsdk.ipc.provider.preference"/>
+        <uses-library
+            android:name="org.apache.http.legacy"
+            android:required="false"/>
+        <activity
+            android:theme="@android:style/Theme.Translucent"
+            android:name="com.kqg.main.activity.CheckAppPermissionsActivity"
+            android:screenOrientation="landscape"
+            android:configChanges="screenSize|orientation|navigation|keyboardHidden"/>
+        <activity
+            android:theme="@android:style/Theme.Translucent"
+            android:name="com.kqg.main.activity.ChangeNewPhone"
+            android:screenOrientation="landscape"
+            android:configChanges="screenSize|orientation|navigation|keyboardHidden"/>
+        <activity
+            android:theme="@android:style/Theme.Translucent"
+            android:name="com.kqg.main.activity.AccountManagerActivity"
+            android:screenOrientation="landscape"
+            android:configChanges="screenSize|orientation|navigation|keyboardHidden"/>
+        <activity
+            android:theme="@android:style/Theme.Translucent"
+            android:name="com.kqg.main.activity.ChangePwdConfirmPhone"
+            android:screenOrientation="landscape"
+            android:configChanges="screenSize|orientation|navigation|keyboardHidden"/>
+        <activity
+            android:theme="@android:style/Theme.Translucent"
+            android:name="com.kqg.main.activity.ForceBindPhone"
+            android:screenOrientation="landscape"
+            android:configChanges="screenSize|orientation|navigation|keyboardHidden"/>
+        <activity
+            android:theme="@android:style/Theme.Translucent"
+            android:name="com.kqg.main.activity.ChangePwdConfirmPwd"
+            android:screenOrientation="landscape"
+            android:configChanges="screenSize|orientation|navigation|keyboardHidden"/>
+        <activity
+            android:theme="@android:style/Theme.Translucent"
+            android:name="com.kqg.main.activity.FindPasswordByEmail"
+            android:screenOrientation="landscape"
+            android:configChanges="screenSize|orientation|navigation|keyboardHidden"/>
+        <activity
+            android:name="com.kqg.main.wxapi.WXPayEntryActivity"
+            android:exported="true"
+            android:launchMode="singleTop"/>
+        <activity-alias
+            android:name="com.kaiqigu.cjyxyn.kvsdk.wxapi.WXPayEntryActivity"
+            android:exported="true"
+            android:targetActivity="com.kqg.main.wxapi.WXPayEntryActivity"/>
+        <activity
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:name="com.alipay.sdk.app.H5PayActivity"
+            android:exported="false"
+            android:configChanges="fontScale|layoutDirection|density|smallestScreenSize|screenSize|screenLayout|orientation|navigation|keyboardHidden|keyboard|locale"/>
+        <activity
+            android:theme="@android:style/Theme.NoTitleBar"
+            android:name="com.alipay.sdk.app.H5AuthActivity"
+            android:exported="false"
+            android:configChanges="fontScale|layoutDirection|density|smallestScreenSize|screenSize|screenLayout|orientation|navigation|keyboardHidden|keyboard|locale"/>
+        <activity
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:name="com.alipay.sdk.app.PayResultActivity"
+            android:exported="true"
+            android:launchMode="singleInstance"
+            android:configChanges="fontScale|layoutDirection|density|smallestScreenSize|screenSize|screenLayout|orientation|navigation|keyboardHidden|keyboard|locale"/>
+        <activity
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:name="com.alipay.sdk.app.AlipayResultActivity"
+            android:exported="true"
+            android:launchMode="singleTask"
+            android:configChanges="fontScale|layoutDirection|density|smallestScreenSize|screenSize|screenLayout|orientation|navigation|keyboardHidden|keyboard|locale"/>
+        <activity
+            android:name="com.alipay.sdk.app.H5OpenAuthActivity"
+            android:exported="false"
+            android:screenOrientation="behind"
+            android:configChanges="fontScale|layoutDirection|density|smallestScreenSize|screenSize|screenLayout|orientation|navigation|keyboardHidden|keyboard|locale"
+            android:windowSoftInputMode="adjustResize|stateHidden"/>
+        <activity
+            android:theme="@android:style/Theme.Translucent.NoTitleBar"
+            android:name="com.alipay.sdk.app.APayEntranceActivity"
+            android:exported="false"
+            android:configChanges="fontScale|layoutDirection|density|smallestScreenSize|screenSize|screenLayout|orientation|navigation|keyboardHidden|keyboard|locale"/>
+    </application>
+</manifest>

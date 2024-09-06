@@ -1,0 +1,84 @@
+package com.netease.nimlib.sdk;
+
+import androidx.vectordrawable.graphics.drawable.PathInterpolatorCompat;
+import com.netease.nimlib.sdk.auth.AuthProvider;
+import com.netease.nimlib.sdk.auth.ChatRoomAuthProvider;
+import com.netease.nimlib.sdk.auth.ChatRoomLoginExtProvider;
+import com.netease.nimlib.sdk.auth.LoginExtProvider;
+import com.netease.nimlib.sdk.misc.model.LogDesensitizationConfig;
+import com.netease.nimlib.sdk.mixpush.MixPushConfig;
+import com.netease.nimlib.sdk.msg.MessageNotifierCustomization;
+import com.netease.nimlib.sdk.msg.NotificationChannelProvider;
+import com.netease.nimlib.sdk.msg.model.CaptureDeviceInfoConfig;
+import com.netease.nimlib.sdk.sync.SyncConfig;
+import com.netease.nimlib.sdk.uinfo.UserInfoProvider;
+
+/* loaded from: classes.dex */
+public class SDKOptions {
+    public static final SDKOptions DEFAULT = new SDKOptions();
+    public static final long MIN_MSG_TYPING_EVENT_INTERVAL = 3000;
+    public String appKey;
+    public AuthProvider authProvider;
+    public ChatRoomAuthProvider chatroomAuthProvider;
+    public ChatRoomLoginExtProvider chatroomLoginExtProvider;
+    public boolean consoleLogEnabled;
+    public String databaseEncryptKey;
+    public boolean disableReport;
+    public FcsDownloadAuthStrategy fcsDownloadAuthStrategy;
+    public String flutterSdkVersion;
+    public LogDesensitizationConfig logDesensitizationConfig;
+    public String loginCustomTag;
+    public LoginExtProvider loginExtProvider;
+    public NosTokenSceneConfig mNosTokenSceneConfig;
+    public MessageNotifierCustomization messageNotifierCustomization;
+    public MixPushConfig mixPushConfig;
+    public NotificationChannelProvider notificationChannelProvider;
+    public ReconnectStrategy reconnectStrategy;
+    public String sdkStorageRootPath;
+    public SecondTimeoutConfig secondTimeoutForSendMessage;
+    public ServerAddresses serverConfig;
+    public boolean shouldConsiderRevokedMessageUnreadCount;
+    public StatusBarNotificationConfig statusBarNotificationConfig;
+    public UserInfoProvider userInfoProvider;
+    public boolean useAssetServerAddressConfig = false;
+    public boolean preloadAttach = true;
+    public int thumbnailSize = 350;
+    public boolean sessionReadAck = false;
+    public boolean improveSDKProcessPriority = true;
+    public boolean preLoadServers = true;
+    public boolean teamNotificationMessageMarkUnread = false;
+    public boolean useXLog = false;
+    public boolean animatedImageThumbnailEnabled = false;
+    public boolean asyncInitSDK = false;
+    public boolean reducedIM = false;
+    public boolean checkManifestConfig = false;
+    public boolean enableBackOffReconnectStrategy = true;
+    public boolean enableLBSOptimize = true;
+    public boolean enableTeamMsgAck = false;
+    public boolean enableFcs = true;
+    public boolean useNtServer = true;
+    public boolean disableAwake = false;
+    public long fetchServerTimeInterval = 2000;
+
+    @Deprecated
+    public boolean reportImLog = false;
+    public String customPushContentType = "";
+    public RecentContactContentSource recentContactContentSource = RecentContactContentSource.MessageTypeTipPreferred;
+    public boolean notifyStickTopSession = false;
+    public boolean enableForegroundService = false;
+    public int cdnRequestDataInterval = PathInterpolatorCompat.MAX_NUM_POINTS;
+    public boolean rollbackSQLCipher = false;
+    public int coreProcessStartTimeout = -1;
+    public boolean clearTimeTagAtBeginning = false;
+    public boolean enableDatabaseBackup = false;
+    public CaptureDeviceInfoConfig captureDeviceInfoConfig = new CaptureDeviceInfoConfig(true, true, true);
+    public boolean enableRecentContactsTimeIndex = false;
+    public boolean enableChatRoomLocation = false;
+    public boolean enableLoseConnection = false;
+    public long qChatTypingEventMinInterval = 3000;
+    public boolean enabledQChatMessageCache = false;
+    public boolean fixMsgStatusByBlackList = false;
+    public SyncConfig syncConfig = new SyncConfig.Builder().build();
+    public boolean qchatAutoSubscribe = false;
+    public boolean reportIgnoredMessage = false;
+}

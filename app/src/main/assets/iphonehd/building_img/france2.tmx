@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="isometric" width="32" height="32" tilewidth="80" tileheight="40">
+ <tileset firstgid="1" name="surface" tilewidth="80" tileheight="40" spacing="2" margin="2">
+  <image source="surface.png" trans="ff00ff" width="494" height="674"/>
+ </tileset>
+ <tileset firstgid="97" name="road" tilewidth="80" tileheight="40" spacing="2" margin="2">
+  <image source="road.png" trans="ff00ff" width="494" height="1010"/>
+ </tileset>
+ <tileset firstgid="241" name="wall" tilewidth="80" tileheight="40" spacing="2" margin="2">
+  <image source="wall.png" trans="ff00ff" width="480" height="280"/>
+ </tileset>
+ <tileset firstgid="271" name="wall" tilewidth="80" tileheight="40">
+  <image source="wall.png" trans="ff00ff" width="480" height="280"/>
+ </tileset>
+ <layer name="earth" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztzbEJACAQBLBb4sFV3H8xe6sHG8UUqVNJCprmIf/bPwB0jI3f7//n524L2gpdYQ==
+  </data>
+ </layer>
+ <layer name="road" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJztlM0KwCAMg/vOc7+wd5/HHsTYztoxG8hBLHxgGolCnrqcfTIv2WvljIzmS/dce/ZROSOheen9F/gbtWeZwHxS8KV5ov3o+f7W+XjweX6aPNF+IP7bPEvd1uaPNLqfwQ++Nb/nfz+i/5b/P9If8w/+3HzP/t/U3mWNUf+tJc1rBv4Dl9et4A==
+  </data>
+ </layer>
+ <layer name="above2" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo2AUjIJRMApGwUgHFTRWT20w0u0vA+IqAnggQSUSLh5gt5SP2j9q/wizH7kcKBkA+0fB4AYAhz8MsQ==
+  </data>
+ </layer>
+ <layer name="roaddown" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzt1LENADAIA0GWTRaGgZIVLIxo/iTX3zkCAACv/Cv6kiPO3b/i3H0n+rt9zOv8g0PnHwDsemkKHRU=
+  </data>
+ </layer>
+ <layer name="above4" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJzt0zEKACAMA8D+Wv29iw9oi1O5g2yBTIkAgL/OC3m70F0D94G8yl8n7gN9Fw2AA8E=
+  </data>
+ </layer>
+ <layer name="wall" width="32" height="32">
+  <data encoding="base64" compression="zlib">
+   eJxjYBgFo4A4IMA4aj+tgSYjKqa3/ZQCeUb8/FH7h5b9/CTqp7Z/R+0fWPvVCZinxYgb61LBLYTsxwc0Ru2nOqB3eTZq/+CzXwkJowNxGruPkP9H7aet/aNgeAEAI8QG7A==
+  </data>
+ </layer>
+</map>
